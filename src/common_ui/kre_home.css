@@ -1,0 +1,323 @@
+body {
+  background-image: url("./assets/BG_1920x1080_jpg.jpg");
+  background-repeat: no-repeat;
+  z-index: -1;
+  overflow-x: hidden;
+  font-style: Candara;
+}
+
+.container {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+
+
+.main-div {
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  background: url("./assets/Veronica_maid1.png");
+  background-size: 1240px;
+  background-repeat: no-repeat;
+  background-position: 1050px 45px;
+}
+
+#joinButton {
+  position: absolute;
+  left: 1590px;
+  top: 20px;
+  z-index: 2;
+}
+
+#topBar {
+  z-index: -2;
+  width: 102%;
+  height: 200px;
+  position: relative;
+  background-image: linear-gradient(to bottom, #030B1A 0%, #041B44  100%);
+  border-bottom: 1px solid white;
+
+}
+
+#bgVero {
+  z-index: 1;
+  /*object-fit: cover;*/
+  height: 1240px;
+  overflow: hidden;
+  position: absolute;
+  top: 45px;
+  left: 1050px;
+
+}
+
+#top_logo {
+  margin-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 175px;
+}
+
+.topNav {
+  position: relative;
+  width: 70%;
+  z-index: 3;
+}
+
+
+.body-panels {
+  position: relative;
+  color: white;
+  border-radius: 10px;
+  border: 2px solid rgba(255, 255, 255);
+  background: rgba(3, 20, 50, .75);
+  box-shadow: 0 0 25px 10px rgba(3, 20, 50);
+  padding: 10px;
+  z-index: 2;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.leftNav {
+  margin-top: 50px;
+  margin-left: 25px;
+  height: 600px;
+}
+
+.side-nav-header {
+  border: 2px solid white;
+  padding-top: 7px;
+}
+
+.side-nav-header h1 {
+  font-size: 30px;
+  font-family: Cambria;
+  margin-left: auto;
+  margin-right: auto;
+  vertical-align: middle;
+}
+
+.side-nav-elements {
+  padding-top: 15px;
+}
+
+.side-nav-elements li {
+  margin-bottom: 10px;
+}
+
+.side-nav-elements ul {
+  list-style: none;
+}
+
+.rightNav {
+  margin-top: 50px;
+  margin-right: 25px;
+  height: 600px;
+}
+
+.centerContent {
+  font-family: Candara;
+  font-size: 22px;
+  margin-top: 50px;
+  margin-left: 30px;
+  margin-right: 30px;
+  height: 700px;
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+
+
+.centerContentPanel {
+  position: absolute;
+  z-index: 3;
+  color: white;
+}
+
+.nav-link {
+  padding: 0px 0px 0px 0px;
+}
+
+/* -------------------------------
+  Buttons
+*/
+
+.btn-grad {
+  font-family: Candara;
+  width: 100%;
+  height: 75px;
+  font-size: 24px;
+  margin: 10px 10px 10px 10px;
+  /*padding: 10px 25px 10px 25px;*/
+
+  display: flex;
+  align-items: center;
+
+  text-align: center;
+  text-transform: uppercase;
+  transition: 0.5s;
+  background-size: 100% 200%;
+  color: white;
+  /*box-shadow: 0 0 0px #eee;*/
+  border-radius: 10px;
+  /*display: block;*/
+}
+
+.btn-grad img {
+  float: left;
+  vertical-align: middle;
+  margin: 10px 10px 10px 10px;
+}
+
+.btn-grad:hover {
+  background-position: center bottom; /* change the direction of the change here */
+  /*color: #fff;*/
+  text-decoration: none;
+  color: white !important;
+}
+
+.btn-grad:active {
+  opacity: .5;
+  box-shadow: none;
+
+}
+
+/*
+.btn:active:focus {
+  opacity: .5;
+  background-image: linear-gradient(to bottom, #1A646E 0%, #22909D  51%, #1A646E  100%) !important;
+}
+*/
+
+.btn-grad-home {
+  background-image: linear-gradient(to bottom, #1A646E 0%, #22909D  51%, #1A646E  100%);
+}
+
+.btn-grad-guides {
+  background-image: linear-gradient(to bottom, #3D6127 0%, #558A35  51%, #3D6127  100%);
+}
+
+.btn-grad-resources {
+  background-image: linear-gradient(to bottom, #BE5206 0%, #C57803  51%, #BE5206  100%);
+}
+
+.btn-grad-progress {
+  background-image: linear-gradient(to bottom, #4D1790 0%, #651595  51%, #4D1790  100%);
+}
+
+.btn-grad-about {
+  background-image: linear-gradient(to bottom, #370303 0%, #5C0808  51%, #370303  100%);
+}
+
+/* -------------------------------
+  End Buttons
+*/
+
+/* -------------------------------
+  Scroll Bar
+*/
+
+::-webkit-scrollbar {
+  width: 15px;
+}
+
+
+::-webkit-scrollbar-track {
+  width: 10px;
+  background: rgba(3, 20, 50, .3);
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: rgba(200, 200, 200, .5);
+  border-radius: 5px;
+
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, .5);
+}
+
+
+
+/* -------------------------------
+  End Scroll Bar
+*/
+
+/* -------------------------------
+  Content
+*/
+
+.About-KRE img{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  margin-bottom: 50px;
+}
+
+
+
+/* -------------------------------
+  End Content
+*/
+
+.sub-content-bar {
+  width:100%;
+  height:120px;
+}
+
+.sub-content-bar-left {
+  background: url("./assets/SubMenu_Left.png");
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 100px;
+  margin-left: -10px;
+  float: left;
+}
+
+.sub-content-bar-right {
+  background: url("./assets/SubMenu_Right.png");
+  background-repeat: no-repeat;
+  width: 100px;
+  height: 100px;
+  margin-right: -20px;
+  float: right;
+}
+
+.sub-content-bar-middle {
+  background: url("./assets/SubMenu_center.png");
+  background-repeat: repeat-x;
+  width: calc(100% - 159px);
+  align-content: center;
+  height: 100px;
+  padding-top: 22px;
+  margin-left: -11px;
+  margin-right: -20px;
+  display: inline-flex;
+  font-weight: bold;
+  font-family: Cambria;
+  text-transform: uppercase;
+}
+
+.sub-content-bar-middle h1 {
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+  font-size: 36px;
+}
+
+.sub-content-prose {
+  padding-left: 28px;
+  padding-right: 28px;
+}
+
+/* -------------------------------
+  Divider
+*/
+
+/* -------------------------------
+  End Divider
+*/

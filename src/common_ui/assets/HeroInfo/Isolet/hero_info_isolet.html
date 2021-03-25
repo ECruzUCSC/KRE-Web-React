@@ -1,0 +1,269 @@
+<html>
+  <head>
+      <meta charset="utf-8">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+      <link rel="stylesheet" href="../../kre_home.css">
+      <link rel="stylesheet" href="../../kre_home.scss">
+      <link rel="stylesheet" href="../../kre_guide_hub.css">
+  </head>
+  <body onload="underlineFocus()">
+    <!--onload="guide_inject(&quot;testing&quot;)"-->
+
+    <div class="container-fluid main-div">
+      <img id="joinButton" src="../../assets/NavButtons/Join_us_button.png">
+
+      <div id="topBar" class="row">
+        <!--<img id="topBar" src="./assets/TopBar-Logo.png">-->
+        <img id="top_logo" src="../../assets/KRE_logo-White.png">
+      </div>
+
+
+      <div class="row topNav">
+
+
+        <div class="col">
+          <a class="button btn-grad btn-grad-home align-middle" href="../../index.html"><img src="../../assets/NavButtons/home_button_cropped_1.png">Home</a>
+        </div>
+        <div class="col">
+          <a class="button btn-grad btn-grad-guides" href="../../kre_guide_hub.html"><img src="../../assets/NavButtons/guide_button_cropped_1.png">Guides</a>
+        </div>
+        <div class="col">
+          <a class="button btn-grad btn-grad-resources" href="../../work_in_progress.html"><img src="../../assets/NavButtons/resource_button_cropped_1.png">Resources</a>
+        </div>
+        <div class="col">
+          <a class="button btn-grad btn-grad-progress" href="../../work_in_progress.html"><img src="../../assets/NavButtons/progress_button_cropped_1.png">Progress</a>
+        </div>
+        <div class="col">
+          <a class="btn-grad btn-grad-about" href="../../work_in_progress.html"><img src="../../assets/NavButtons/about_button.png">About</a>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-2">
+          <div class="leftNav body-panels">
+
+
+            <div class="row side-nav-header">
+              <h1>GUIDE
+            </div>
+            <div class="row side-nav-elements">
+              <ul>
+                <li>Beginner's Guides</li>
+                <li>Hero Guides</li>
+                <li>Miscellaneous</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-8">
+          <div class="centerContent body-panels">
+
+            <div class="row no-gutters">
+              <div class="col guide-tab">
+                <a class="button guide-button guide-button-focus">Hero Info</a>
+              </div>
+              <div class="col guide-tab">
+                <a class="button guide-button">Skill Info</a>
+              </div>
+              <div class="col guide-tab">
+                <a class="button guide-button">Guide</a>
+              </div>
+              <div class="col guide-tab">
+                <a class="button guide-button" href="https://www.krindex.net/heroes/Isolet" target="_blank">KR Index</a>
+              </div>
+            </div>
+
+
+            <!--
+
+          -->
+            <div id="hero-info">
+              <div class="hero-info-panel">
+                <div>
+                </div>
+
+                <div class="hero-info-bg">
+                </div>
+
+                <div class="hero-name-ribbon">
+                  <h1>ISOLET</h1>
+                  The Hope of Gray
+                </div>
+
+
+                <div class="hero-info-main">
+                  Position: Back
+                  <br> DPS Type: Physical
+                  <br> Gender: Female
+                  <br> Age: 22
+                  <br> Height: 167cm
+                  <br> Race: Human
+                  <br> Constellation: Judgment Layan
+                  <br> Birthday: September 9th (Month of Truth)
+                  <br> Likes: Big dumb witch hats
+                  <br> Dislikes: Content that's not Galg or Flow
+                </div>
+
+                <div class="class-ribbon">
+                  Wizard<img src="../../assets/ClassBanners/WizardIcon.png"></img>
+                </div>
+              </div>
+
+              <div>
+                <div class="sub-content-bar">
+                  <div class="sub-content-bar-left">
+                  </div>
+
+                  <div class="sub-content-bar-middle">
+                    <h1 class="hero-info-story-bar">Story</h1>
+                  </div>
+
+                  <div class="sub-content-bar-right">
+                  </div>
+                </div>
+
+                <div class="sub-content-prose">
+                  <p>A witch who's associated with Pandora.
+
+                  <p>Scarred by the dark side of the Empire that encourages sacrificing small for the greater good, Isolet's mind delved deeper into the abyss as she directly faced the ambivalence of the Empire. Isolet is equipped with great knowledge which she gained from being a witch, truths of the world she found out in secret, and the great power granted to her by Pandora. Carrying a deep feeling of loss in her heart, Isolet wields her weapon and proceeds to the execution site to punish the hypocrites who oppress the weak.
+
+                  <p>Her elemental spells have become more powerful through the machines Pandora gave her. She is also among the few people who can provide a large amount of Mana to the hearts of Pandora's automata to make them do her bidding. Both the Empire and Pandora desire Isole for her invaluable knowledge and power.
+
+                  <p>Whenever she reminisces about the Witch Association, which is her family and her home, her eyes tend to soften. But the bloody path she has walked as the executioner of Pandora binds her with its cold chains.
+                </div>
+              </div>
+            </div>
+
+            <div id="skill-info">
+              <div class="sub-content-bar">
+                <div class="sub-content-bar-left">
+                </div>
+
+                <div class="sub-content-bar-middle">
+                  <h1>Skill Info</h1>
+                </div>
+
+                <div class="sub-content-bar-right">
+                </div>
+              </div>
+
+              <div class="hero-skill skill1">
+                <div class="skill-info">
+                  <div class="skill-image">
+                    <div class="skill-image-second-border">
+                      <img src="./s1.png"></img>
+                    </div>
+                  </div>
+                  <div class="skill-details">
+                    <h1>Skill 1: Devouring Flame - Caienne</h1>
+                    <h4>Cooldown: 7 seconds</h4>
+                    <h4>Mana: <img src="../mana_crystals.png"><img src="../mana_crystals.png"></h4>
+                  </div>
+                </div>
+                <div class="skill-description">
+                  Deals P.DMG to frontal enemies and inflicts them with [Ignite]. Enemies inflicted with [Ignite] have their Heal Rate reduced by 25% for 7s.
+                </div>
+              </div>
+
+              <div class="hero-skill skill2">
+                <div class="skill-info">
+                  <div class="skill-image">
+                    <div class="skill-image-second-border">
+                      <img src="./s2.png"></img>
+                    </div>
+                  </div>
+                  <div class="skill-details">
+                    <h1>Skill 2: Frost of Absolute Zero - Devion</h1>
+                    <h4>Cooldown: 15 seconds</h4>
+                    <h4>Mana: <img src="../mana_crystals.png"><img src="../mana_crystals.png"><img src="../mana_crystals.png"></h4>
+                  </div>
+                </div>
+                <div class="skill-description">
+                  Deals P.DMG to frontal enemies over 5 times, freezing the targets for 3 sec each hit. Dealing DMG to an enemy inflicted by [Ignite] creates [Explosive Reaction] that deals additional DMG that ignores DEF.
+                </div>
+              </div>
+
+              <div class="hero-skill skill3">
+                <div class="skill-info">
+                  <div class="skill-image">
+                    <div class="skill-image-second-border">
+                      <img src="./s3.png"></img>
+                    </div>
+                  </div>
+                  <div class="skill-details">
+                    <h1>Skill 3: Raging Storm - Icarus</h1>
+                    <h4>Cooldown: 20 seconds</h4>
+                    <h4>Mana: <img src="../mana_crystals.png"><img src="../mana_crystals.png"><img src="../mana_crystals.png"><img src="../mana_crystals.png"></h4>
+                  </div>
+                </div>
+                <div class="skill-description">
+                  Deals P.DMG each hit over 20 times to frontal enemies for 10s, reducing ATK of targets by 15% for 10s. Upon dealing DMG to an enemy inflicted with [Ignite], the Skill changes to [Blazing Storm], dealing P.DMG and reducing enemy’s Heal Rate by 1.5% for 60 sec each hit. This effect can be stacked up to max 30 times.
+                </div>
+              </div>
+
+              <div class="hero-skill skill4">
+                <div class="skill-info skill4">
+                  <div class="skill-image">
+                    <div class="skill-image-second-border">
+                      <img src="./s4.png"></img>
+                    </div>
+                  </div>
+                  <div class="skill-details">
+                    <h1>Skill 4: Quintessence of Technomagic</h1>
+                    <h4>Cooldown: N/A
+                  </div>
+                </div>
+                <div class="skill-description">
+                  Isolet’s ATK Spd is fixed to 1000 and she is not affected by Skill Cooldown Reduction effects, by she recovers 1500 Mana and increases her Crit DMG by 100% every time she uses a Skill.
+  When she creates [Explosive Reaction], her ATK increases by 4%. This effect can be stacked up to max 15 times and is irremovable.
+  When she creates [Blazing Storm], M.DMG all allies take is reduced by 7%. This effect can be stacked up to max 3 times and is irremovable.
+                </div>
+              </div>
+
+            </div>
+
+            <div id="guide">
+              <div class="sub-content-bar">
+                <div class="sub-content-bar-left">
+                </div>
+
+                <div class="sub-content-bar-middle">
+                  <h1>Isolet Basics Guide</h1>
+                </div>
+
+                <div class="sub-content-bar-right">
+                </div>
+              </div>
+
+              <div class="gdocs-embed">
+                <iframe src="https://docs.google.com/document/d/e/2PACX-1vSWRwpnuBdlH5qTJZZRdVOkv0EgiXMnZvpYx8_a2b4JrN_sL_wGSE0SWbvsRY4rQkgHw9VYH3kXBpjc/pub?embedded=true"></iframe>
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+
+        <div class="col-2">
+          <div class="rightNav body-panels">
+            <div class="row side-nav-header">
+              <h1>Related Sites
+            </div>
+            <div class="row side-nav-elements">
+              <ul>
+                <li>KR EN Community</li>
+                <li>KR Index</li>
+                <li>Shal's Youtube Channel</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+    <script src="../../hero_info.js"></script>
+  </body>
+
+</html>

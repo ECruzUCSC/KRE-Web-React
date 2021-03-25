@@ -1,0 +1,114 @@
+{
+    "hero": [
+      {
+        "id": 1,
+        "heroName": "Isolet",
+        "heroClass": "Wizard",
+        "dpsType": "Physical",
+        "position": "Back",
+        "heroInfo": {
+          "title": "Hope of Gray",
+          "gender": "Female",
+          "age": 22,
+          "height": "167 cm",
+          "race": "Human",
+          "constellation": "Judgment Layan",
+          "birthday": "September 9th",
+          "likes": "Big dumb witch hats",
+          "dislikes": "Content that's not Galg or Flow",
+          "backstory": [
+            "lorem",
+            "ipsum"
+          ]
+        },
+        "skillInfo": {
+          "skill": [
+            {
+              "skillNumber": 1,
+              "skillName": "Devouring Flame - Caienne",
+              "cooldown": "7 seconds",
+              "mana": 2,
+              "skillDescription": ""
+            },
+            {
+              "skillNumber": 2,
+              "skillName": "Frost of Absolute Zero - Devion",
+              "cooldown": "15 seconds",
+              "mana": 3,
+              "skillDescription": ""
+            },
+            {
+              "skillNumber": 3,
+              "skillName": "Raging Storm - Icarus",
+              "cooldown": "20 seconds",
+              "mana": 4,
+              "skillDescription": ""
+            },
+            {
+              "skillNumber": 4,
+              "skillName": "Quintessence of Technomagic",
+              "cooldown": "N/A",
+              "mana": 0,
+              "skillDescription": ""
+            }
+          ]
+        }
+      },
+
+
+      {
+        "id": 2,
+        "heroName": "Chase",
+        "heroClass": "Warrior",
+        "dpsType": "Physical",
+        "position": "Front",
+        "heroInfo": {
+          "title": "Type. 0",
+          "gender": "Male",
+          "age": 27,
+          "height": "196 cm",
+          "race": "human",
+          "constellation": "Hexipolia the Wanderer",
+          "birthday": "December 8th",
+          "likes": "Gun Lances",
+          "dislikes": "People saying he's OP",
+          "backstory": [
+            "lorem",
+            "ipsum"
+          ]
+        },
+        "skillInfo": {
+          "skill": [
+            {
+              "skillNumber": 1,
+              "skillName": "I'll Break You!",
+              "cooldown": "12 seconds",
+              "mana": 2,
+              "skillDescription": ""
+            },
+            {
+              "skillNumber": 2,
+              "skillName": "Remove Limit",
+              "cooldown": "10 seconds",
+              "mana": 3,
+              "skillDescription": ""
+            },
+            {
+              "skillNumber": 3,
+              "skillName": "Burn, Spear of Fury",
+              "cooldown": "20 seconds",
+              "mana": 3,
+              "skillDescription": ""
+            },
+            {
+              "skillNumber": 4,
+              "skillName": "Remember This in Hell",
+              "cooldown": "N/A",
+              "mana": 0,
+              "skillDescription": ""
+            }
+          ]
+        }
+      }
+    ]
+  }
