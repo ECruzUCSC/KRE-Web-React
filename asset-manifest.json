@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/KRE-Web-React/static/css/main.49c95233.chunk.css",
-    "main.js": "/KRE-Web-React/static/js/main.4d8324f3.chunk.js",
-    "main.js.map": "/KRE-Web-React/static/js/main.4d8324f3.chunk.js.map",
+    "main.js": "/KRE-Web-React/static/js/main.806295bd.chunk.js",
+    "main.js.map": "/KRE-Web-React/static/js/main.806295bd.chunk.js.map",
     "runtime-main.js": "/KRE-Web-React/static/js/runtime-main.5e0b678d.js",
     "runtime-main.js.map": "/KRE-Web-React/static/js/runtime-main.5e0b678d.js.map",
     "static/js/2.69f06d10.chunk.js": "/KRE-Web-React/static/js/2.69f06d10.chunk.js",
@@ -14,13 +14,13 @@
     "static/js/2.69f06d10.chunk.js.LICENSE.txt": "/KRE-Web-React/static/js/2.69f06d10.chunk.js.LICENSE.txt",
     "static/media/kre_home.css": "/KRE-Web-React/static/media/Veronica_maid1.12bf3622.png",
     "static/media/KRE_logo-White.4b29e658.png": "/KRE-Web-React/static/media/KRE_logo-White.4b29e658.png",
-    "static/media/knight_portrait1_aselica.ff6b360c.png": "/KRE-Web-React/static/media/knight_portrait1_aselica.ff6b360c.png",
-    "static/media/knight_portrait2_clause.png": "/KRE-Web-React/static/media/knight_portrait2_clause.c2973649.png"
+    "static/media/knight_portrait14_taily.png": "/KRE-Web-React/static/media/knight_portrait14_taily.b295c2f4.png",
+    "static/media/knight_portrait1_aselica.ff6b360c.png": "/KRE-Web-React/static/media/knight_portrait1_aselica.ff6b360c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5e0b678d.js",
     "static/js/2.69f06d10.chunk.js",
     "static/css/main.49c95233.chunk.css",
-    "static/js/main.4d8324f3.chunk.js"
+    "static/js/main.806295bd.chunk.js"
   ]
 }
