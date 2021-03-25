@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/KRE-Web-React/static/css/main.49c95233.chunk.css",
-    "main.js": "/KRE-Web-React/static/js/main.9d61d395.chunk.js",
-    "main.js.map": "/KRE-Web-React/static/js/main.9d61d395.chunk.js.map",
+    "main.js": "/KRE-Web-React/static/js/main.d0c8b2f7.chunk.js",
+    "main.js.map": "/KRE-Web-React/static/js/main.d0c8b2f7.chunk.js.map",
     "runtime-main.js": "/KRE-Web-React/static/js/runtime-main.49a3b564.js",
     "runtime-main.js.map": "/KRE-Web-React/static/js/runtime-main.49a3b564.js.map",
     "static/js/2.69f06d10.chunk.js": "/KRE-Web-React/static/js/2.69f06d10.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.49a3b564.js",
     "static/js/2.69f06d10.chunk.js",
     "static/css/main.49c95233.chunk.css",
-    "static/js/main.9d61d395.chunk.js"
+    "static/js/main.d0c8b2f7.chunk.js"
   ]
 }
