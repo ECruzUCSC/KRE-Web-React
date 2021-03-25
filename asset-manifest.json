@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/KRE-Web-React/static/css/main.49c95233.chunk.css",
+    "main.js": "/KRE-Web-React/static/js/main.40900c90.chunk.js",
+    "main.js.map": "/KRE-Web-React/static/js/main.40900c90.chunk.js.map",
+    "runtime-main.js": "/KRE-Web-React/static/js/runtime-main.49a3b564.js",
+    "runtime-main.js.map": "/KRE-Web-React/static/js/runtime-main.49a3b564.js.map",
+    "static/js/2.69f06d10.chunk.js": "/KRE-Web-React/static/js/2.69f06d10.chunk.js",
+    "static/js/2.69f06d10.chunk.js.map": "/KRE-Web-React/static/js/2.69f06d10.chunk.js.map",
+    "static/js/3.c22f22b5.chunk.js": "/KRE-Web-React/static/js/3.c22f22b5.chunk.js",
+    "static/js/3.c22f22b5.chunk.js.map": "/KRE-Web-React/static/js/3.c22f22b5.chunk.js.map",
+    "index.html": "/KRE-Web-React/index.html",
+    "static/css/main.49c95233.chunk.css.map": "/KRE-Web-React/static/css/main.49c95233.chunk.css.map",
+    "static/js/2.69f06d10.chunk.js.LICENSE.txt": "/KRE-Web-React/static/js/2.69f06d10.chunk.js.LICENSE.txt",
+    "static/media/kre_home.css": "/KRE-Web-React/static/media/Veronica_maid1.12bf3622.png",
+    "static/media/KRE_logo-White.4b29e658.png": "/KRE-Web-React/static/media/KRE_logo-White.4b29e658.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49a3b564.js",
+    "static/js/2.69f06d10.chunk.js",
+    "static/css/main.49c95233.chunk.css",
+    "static/js/main.40900c90.chunk.js"
+  ]
+}
