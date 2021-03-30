@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/KRE-Web-React/static/css/main.49c95233.chunk.css",
-    "main.js": "/KRE-Web-React/static/js/main.2dd7880b.chunk.js",
-    "main.js.map": "/KRE-Web-React/static/js/main.2dd7880b.chunk.js.map",
-    "runtime-main.js": "/KRE-Web-React/static/js/runtime-main.ab967c35.js",
-    "runtime-main.js.map": "/KRE-Web-React/static/js/runtime-main.ab967c35.js.map",
+    "main.js": "/KRE-Web-React/static/js/main.defb3042.chunk.js",
+    "main.js.map": "/KRE-Web-React/static/js/main.defb3042.chunk.js.map",
+    "runtime-main.js": "/KRE-Web-React/static/js/runtime-main.255447ef.js",
+    "runtime-main.js.map": "/KRE-Web-React/static/js/runtime-main.255447ef.js.map",
     "static/js/2.a9ec7885.chunk.js": "/KRE-Web-React/static/js/2.a9ec7885.chunk.js",
     "static/js/2.a9ec7885.chunk.js.map": "/KRE-Web-React/static/js/2.a9ec7885.chunk.js.map",
-    "static/js/3.a483a280.chunk.js": "/KRE-Web-React/static/js/3.a483a280.chunk.js",
-    "static/js/3.a483a280.chunk.js.map": "/KRE-Web-React/static/js/3.a483a280.chunk.js.map",
+    "static/js/3.e9061f09.chunk.js": "/KRE-Web-React/static/js/3.e9061f09.chunk.js",
+    "static/js/3.e9061f09.chunk.js.map": "/KRE-Web-React/static/js/3.e9061f09.chunk.js.map",
     "index.html": "/KRE-Web-React/index.html",
     "static/css/main.49c95233.chunk.css.map": "/KRE-Web-React/static/css/main.49c95233.chunk.css.map",
     "static/js/2.a9ec7885.chunk.js.LICENSE.txt": "/KRE-Web-React/static/js/2.a9ec7885.chunk.js.LICENSE.txt",
     "static/media/Aisha_charinfo.png": "/KRE-Web-React/static/media/Aisha_charinfo.1fc9d324.png",
     "static/media/Artemia_charinfo.png": "/KRE-Web-React/static/media/Artemia_charinfo.16a9a107.png",
     "static/media/kre_home.css": "/KRE-Web-React/static/media/Veronica_maid1.12bf3622.png",
+    "static/media/Bernheim_charinfo.png": "/KRE-Web-React/static/media/Bernheim_charinfo.af461ef2.png",
     "static/media/Chase_charinfo.png": "/KRE-Web-React/static/media/Chase_charinfo.f5e26f45.png",
     "static/media/Cleo_charinfo.png": "/KRE-Web-React/static/media/Cleo_charinfo.c3e41bbe.png",
     "static/media/DLK_charinfo.png": "/KRE-Web-React/static/media/DLK_charinfo.e5fecfcd.png",
@@ -22,6 +23,7 @@
     "static/media/Estelle_charinfo.png": "/KRE-Web-React/static/media/Estelle_charinfo.81ca1fed.png",
     "static/media/Gau_charinfo.png": "/KRE-Web-React/static/media/Gau_charinfo.952b5d06.png",
     "static/media/Gremory_charinfo.png": "/KRE-Web-React/static/media/Gremory_charinfo.d170f4d5.png",
+    "static/media/Hilda_charinfo.png": "/KRE-Web-React/static/media/Hilda_charinfo.af461ef2.png",
     "static/media/Isolet_charinfo.png": "/KRE-Web-React/static/media/Isolet_charinfo.d02ea197.png",
     "static/media/KRE_logo-White.4b29e658.png": "/KRE-Web-React/static/media/KRE_logo-White.4b29e658.png",
     "static/media/Kasel_charinfo.png": "/KRE-Web-React/static/media/Kasel_charinfo.af461ef2.png",
@@ -159,9 +161,9 @@
     "static/media/xerah_charinfo.png": "/KRE-Web-React/static/media/xerah_charinfo.ef9504fe.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ab967c35.js",
+    "static/js/runtime-main.255447ef.js",
     "static/js/2.a9ec7885.chunk.js",
     "static/css/main.49c95233.chunk.css",
-    "static/js/main.2dd7880b.chunk.js"
+    "static/js/main.defb3042.chunk.js"
   ]
 }
