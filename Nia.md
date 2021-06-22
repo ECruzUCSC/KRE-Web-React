@@ -20,7 +20,7 @@ In PvP, ...
 Category | Values
 -- | --
 Content where Nia Excels | Galgoria<br/>Trial of the Sky<br/>PvP<br/>High Defense Content
-Content where Nia is Lacking | Scoring Content, Low Defense Content
+Content where Nia is Lacking | Scoring Content<br/>Low Defense Content
 Offensive Stat Buffs | 14244 Flat Atk from S4. Stacks up to 5 times for a total of 71220 Flat Atk<br/>50% Transcendence/Perk Atk from S4D<br/>200-500 Crit from UW<br/>40-100% Crit Damage from UW
 Defense Ignore | Very Small amount of Defense Ignore on auto attack, S1 and S1E hits from T5D<br/>Moderate Defense Ignore on S2E<br/>Massive Defense Ignore on S3E
 Damage Amplification | 20% Physical Amp from S2<br/>40% Physical Amp from S2E<br/>8-20% Physical Amp from UT2 on S2<br/>8-20% Physical Amp from UT2 on S2E
