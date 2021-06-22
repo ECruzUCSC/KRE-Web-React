@@ -17,7 +17,8 @@ Unfortunately, Nia does not see much usage in PvE outside of Galgoria. She can f
 In PvP, ...
 
 # Statistics
- | 
+Category | Values
+-- | --
 Content where Nia Excels | ...
 Content where Nia is Lacking | ...
 Damage Amplification | 20% Physical Amp from S2\ 40% Physical Amp from S2E\ 8-20% Physical Amp from UT2 on S2\ 8-20% Physical Amp from UT2 on S2E
@@ -26,4 +27,3 @@ Damage Amplification | 20% Physical Amp from S2\ 40% Physical Amp from S2E\ 8-20
 
 # Perks
 
-# Statistics
