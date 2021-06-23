@@ -118,7 +118,40 @@ Category | Information
 
 # Perks
 
+## Transcendence 1 Perks
+**ATK Up**
+![T1 Atk](https://www.krindex.net/assets/genericPerks/ATK%20Up.png)
+**Relevance:** PvE: Core, PvP: High
+**In-Game Text:** ATK is increased by 30%
+**Breakdown:**
 
+**HP Up**
+![T1 Hp](https://www.krindex.net/assets/genericPerks/HP%20Up.png)
+**Relevance:** PvE: None, PvP: High
+**In-Game Text:** HP is increased by 30%
+**Breakdown:**
+
+**DEF Up**
+![T1 Def](https://www.krindex.net/assets/genericPerks/DEF%20Up.png)
+**Relevance:** PvE: None, PvP: High
+**In-Game Text:** DEF is increased by 30%
+**Breakdown:**
+
+**Crit Resist Up**
+![T1 Crit Res](https://www.krindex.net/assets/genericPerks/Crit%20Resist%20Up.png)
+**Relevance:** PvE: None, PvP: High
+**In-Game Text:** Crit Resistance is increased by 250
+**Breakdown:**
+
+**Monster Hunting**
+![T1 MH](https://www.krindex.net/assets/genericPerks/Monster%20Hunting.png)
+**Relevance:** PvE: Core, PvP: High
+**In-Game Text:** Increases DMG to Non-Hero Enemies by 10% and takes 10% reduced DMG.
+**Breakdown:**
+
+## Transcendence 2 Perks
+
+## Transcendence 5 Perks
 
 Col 1 | Col 2
 -- | --
