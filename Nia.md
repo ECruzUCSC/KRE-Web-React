@@ -111,13 +111,13 @@ Col 1 | Col 2
 **PvE Relevance** | None
 **PvP Relevance** | None
 **In-Game Text** | Each hit reduces the target's Mana by 100. 
-**Description** | Player Description 
+**Description** | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id felis porttitor, semper turpis non, efficitur mauris. Praesent dui justo, auctor eget consectetur id, tempor in elit. Donec sollicitudin arcu quam, quis laoreet neque laoreet non. Ut aliquam ornare eleifend. Nulla et congue libero. Mauris eu metus eu nibh vulputate auctor. Suspendisse efficitur ac mi in condimentum. Mauris fringilla congue tellus ut commodo. 
 &nbsp; | &nbsp;
 ![S1D](https://www.krindex.net/assets/heroes/nia/s2d.png) | S1D - Scar of Barbarism [Dark] 
 **PvE Relevance** | None
 **PvP Relevance** | None
 **In-Game Text** | Each hit recovers own mana by 100. 
-**Description** | Player Description 
+**Description** | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id felis porttitor, semper turpis non, efficitur mauris. Praesent dui justo, auctor eget consectetur id, tempor in elit. Donec sollicitudin arcu quam, quis laoreet neque laoreet non. Ut aliquam ornare eleifend. Nulla et congue libero. Mauris eu metus eu nibh vulputate auctor. Suspendisse efficitur ac mi in condimentum. Mauris fringilla congue tellus ut commodo. 
 &nbsp; | &nbsp;
 
 # Execution
