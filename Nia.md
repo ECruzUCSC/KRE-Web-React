@@ -115,6 +115,7 @@ Col 1 | Col 2
 **PvP Relevance** | None
 **In-Game Text** | Each hit reduces the target's Mana by 100. 
 **Description** | Player Description 
+ |
 ![S1D](https://www.krindex.net/assets/heroes/nia/s2d.png) | S1D - Scar of Barbarism [Dark] 
 **PvE Relevance** | None
 **PvP Relevance** | None
