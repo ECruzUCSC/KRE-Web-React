@@ -48,27 +48,24 @@ Category | Information
 &nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
 **Breakdown** | Player Description
 
-<br/>
-<br/>
-
-![S2.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s2-1.png) | S2 - On the Hunt
--- | :--
+Category | Information
+-- | --
+![S2.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s2-1.png) | **Base Skill<br/>S2 - On the Hunt**
 **Mana** | 3
 **Cooldown** | 15 seconds
 **In-Game Text** | Moves behind the farthest enemy to deal **[1.221x + 52477]** P.DMG, and inflicts [Hunt Mark] to all enemies for 12 sec. Enemies under [Hunt Mark] take 20% increased P.DMG and have their Heal Rate reduced by 25%. Dispels all positive effects fro enemies with [Enhanced Hunt Mark].
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
-**Description** | Player Description
-
-<br/>
-<br/>
-
-![S2.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s2-2.png) | S2E - Enhanced On the Hunt
--- | :--
-**Mana** | 3
-**Cooldown** | N/A
+![S2.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s2-2.png) | **Enhanced Skill<br/>S2E - Enhanced On the Hunt**
 **In-Game Text** | Moves behind the farthest enemy to deal **[4.024x + 232731]** P.DMG that ignores DEF, and inflicts [Enhanced Hunt Mark] to all enemies for 12 sec. Enemies under [Enhanced Hunt Mark] take 40% increased P.DMG, have their Heal Rate reduced by 50%, and their Atk Spd by 25%. Dispels all positive effects from enemies with [Hunt Mark].
-**Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
-**Description** | Player Description
+&nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
+<img src="https://www.krindex.net/assets/heroes/nia/s2l.png" width="80" height="80"/> | **Transcendence Perk<br/>S2L - On the Hunt [Light]**
+**Relevance** | PvE: None, PvP: High
+**In-Game Text** | Reduces Mana Cost by 1.
+<img src="https://www.krindex.net/assets/heroes/nia/s2d.png" width="80" height="80"/> | **Transcendence Perk<br/>S2D - On the Hunt [Dark]** 
+**Relevance** | PvE: None, PvP: Medium
+**In-Game Text** | [Hunt Mark] and [Enhanced Hunt Mark] cannot be dispelled by skills that remove negative effects.
+&nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
+**Breakdown** | Player Description
 
 <br/>
 <br/>
