@@ -2,7 +2,7 @@
 This guide will cover Nia in an indepth fashion, that is to say it will have the basics, but also some very specific information on how the character works. I intend to cover mostly PvE but will also cover PvP in broad strokes. 
 
 # Character Overview
-![Nia Thumbnail](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroThumbnails/Assassin/assassin_portrait10_nia.png)
+![Nia Thumbnail](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroThumbnails/Assassin/assassin_portrait10_nia.png)\
 **Name**: Nia\
 **Class**: Assassin\
 **Damage Type**: Physical\
@@ -37,9 +37,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
-<br/>
-<br/>
-<br/>
+\\
 
 ![S1.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-2.png) | S1E - Enhanced Scar of Barbarism
 -- | --
@@ -49,9 +47,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
-<br/>
-<br/>
-<br/>
+\\
 
 ![S2.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s2-1.png) | S2 - On the Hunt
 -- | --
@@ -61,9 +57,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
-<br/>
-<br/>
-<br/>
+\\
 
 ![S2.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s2-2.png) | S2E - Enhanced On the Hunt
 -- | --
@@ -73,9 +67,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
-<br/>
-<br/>
-<br/>
+\\
 
 ![S3.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s3-1.png) | S3 - Demonic Eyes of Petrification
 -- | --
@@ -85,9 +77,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
-<br/>
-<br/>
-<br/>
+\\
 
 ![S3.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s3-2.png) | S3E - Enhanced Demonic Eyes of Petrification
 -- | --
@@ -97,9 +87,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
-<br/>
-<br/>
-<br/>
+\\
 
 ![S4](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s4.png) | S4 - Demonic Blood
 -- | --
