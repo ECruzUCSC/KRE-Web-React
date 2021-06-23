@@ -37,7 +37,7 @@ Category | Information
 **In-Game Text** | Deals **[1.080x + 35620]** P.DMG to 1 enemy. Then, moves forward while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[2.880x + 94986]** P.DMG. The last strike deals **[2.440x + 109243]** P.DMG to frontal enemies and knocks them down for 2 sec.
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
-&nbsp; | &nbsp;<br/>&nbsp;
+&nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
 ![S1.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-2.png) | **S1E - Enhanced Scar of Barbarism**
 **Mana** | 3
 **Cooldown** | N/A
