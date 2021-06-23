@@ -36,6 +36,8 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
+
+
 ![S1.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-2.png) | S1E - Enhanced Scar of Barbarism
 -- | --
 **Mana** | 3
@@ -52,6 +54,8 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
+
+
 ![S2.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s2-2.png) | S2E - Enhanced On the Hunt
 -- | --
 **Mana** | 3
@@ -60,6 +64,8 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
+
+
 ![S3.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s3-1.png) | S3 - Demonic Eyes of Petrification
 -- | --
 **Mana** | 3
@@ -67,6 +73,8 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 **In-Game Description** | Deals **[2.066x + 119688]** P.DMG to frontal enemies within range 3 times and petrifies them for 3 sec, reducing their All Dodge Chance by 200 for 10 sec.
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
+
+
 
 ![S3.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s3-2.png) | S3E - Enhanced Demonic Eyes of Petrification
 -- | --
