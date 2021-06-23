@@ -45,7 +45,7 @@ Category | Information
 <img src="https://www.krindex.net/assets/heroes/nia/s1d.png" width="80" height="80"/> | **Transcendence Perk<br/>S1D - Scar of Barbarism [Dark]** 
 **Relevance** | None
 **In-Game Text** | Each hit recovers own mana by 100.
-&nbsp; | &nbsp;<br/>&nbsp;
+&nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
 **Breakdown** | Player Description
 
 <br/>
