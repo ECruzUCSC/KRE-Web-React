@@ -33,7 +33,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 -- | --
 **Mana** | 3
 **Cooldown** | 15 seconds
-**In-Game Description** | Deals **[1.080x + 35620]** P.DMG to 1 enemy. Then, moves forward while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[2.880x + 94986]** P.DMG. The last strike deals **[2.440x + 109243]** P.DMG to frontal enemies and knocks them down for 2 sec.
+**In-Game Text** | Deals **[1.080x + 35620]** P.DMG to 1 enemy. Then, moves forward while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[2.880x + 94986]** P.DMG. The last strike deals **[2.440x + 109243]** P.DMG to frontal enemies and knocks them down for 2 sec.
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
@@ -44,7 +44,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 -- | --
 **Mana** | 3
 **Cooldown** | N/A
-**In-Game Description** | Deals **[2.160x + 71942]** P.DMG to 1 enemy. Then, moves to random enemies while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[23.040x + 767381]** P.DMG. The last strike deals **[4.870x + 216584]** P.DMG to frontal enemies and knocks them down for 4 sec.
+**In-Game Text** | Deals **[2.160x + 71942]** P.DMG to 1 enemy. Then, moves to random enemies while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[23.040x + 767381]** P.DMG. The last strike deals **[4.870x + 216584]** P.DMG to frontal enemies and knocks them down for 4 sec.
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
@@ -55,7 +55,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 -- | --
 **Mana** | 3
 **Cooldown** | 15 seconds
-**In-Game Description** | Moves behind the farthest enemy to deal **[1.221x + 52477]** P.DMG, and inflicts [Hunt Mark] to all enemies for 12 sec. Enemies under [Hunt Mark] take 20% increased P.DMG and have their Heal Rate reduced by 25%. Dispels all positive effects fro enemies with [Enhanced Hunt Mark].
+**In-Game Text** | Moves behind the farthest enemy to deal **[1.221x + 52477]** P.DMG, and inflicts [Hunt Mark] to all enemies for 12 sec. Enemies under [Hunt Mark] take 20% increased P.DMG and have their Heal Rate reduced by 25%. Dispels all positive effects fro enemies with [Enhanced Hunt Mark].
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
@@ -66,7 +66,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 -- | --
 **Mana** | 3
 **Cooldown** | N/A
-**In-Game Description** | Moves behind the farthest enemy to deal **[4.024x + 232731]** P.DMG that ignores DEF, and inflicts [Enhanced Hunt Mark] to all enemies for 12 sec. Enemies under [Enhanced Hunt Mark] take 40% increased P.DMG, have their Heal Rate reduced by 50%, and their Atk Spd by 25%. Dispels all positive effects from enemies with [Hunt Mark].
+**In-Game Text** | Moves behind the farthest enemy to deal **[4.024x + 232731]** P.DMG that ignores DEF, and inflicts [Enhanced Hunt Mark] to all enemies for 12 sec. Enemies under [Enhanced Hunt Mark] take 40% increased P.DMG, have their Heal Rate reduced by 50%, and their Atk Spd by 25%. Dispels all positive effects from enemies with [Hunt Mark].
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
@@ -77,7 +77,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 -- | --
 **Mana** | 3
 **Cooldown** | 30 seconds
-**In-Game Description** | Deals **[2.066x + 119688]** P.DMG to frontal enemies within range 3 times and petrifies them for 3 sec, reducing their All Dodge Chance by 200 for 10 sec.
+**In-Game Text** | Deals **[2.066x + 119688]** P.DMG to frontal enemies within range 3 times and petrifies them for 3 sec, reducing their All Dodge Chance by 200 for 10 sec.
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
@@ -88,7 +88,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 -- | --
 **Mana** | 3
 **Cooldown** | N/A
-**In-Game Description** | Deals **[2.186x + 131088]** P.DMG that ignores DEF to enemies in a wide front range 3 times and petrifies them for 5 sec, reducing their All Dodge Chance by 200 for 10 sec.
+**In-Game Text** | Deals **[2.186x + 131088]** P.DMG that ignores DEF to enemies in a wide front range 3 times and petrifies them for 5 sec, reducing their All Dodge Chance by 200 for 10 sec.
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
@@ -99,12 +99,26 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 -- | --
 **Mana** | N/A
 **Cooldown** | N/A
-**In-Game Description** | Gains 1 stack of [Demonic Blood] upon using a Skill. It can be stacked up to max 4 times, and upon gaining 4 stacks, resets Cooldown of all Skills and [Enhanced Skill] becomes available. Using [Enhanced Skill] removes [Demonic Blood] stacks. Upon gaining each stack of [Demonic Blood], increases own ATK by 9496 and All Dodge Chance by 40 for 20 sec. This effect can be stacked up to max 5 times.
+**In-Game Text** | Gains 1 stack of [Demonic Blood] upon using a Skill. It can be stacked up to max 4 times, and upon gaining 4 stacks, resets Cooldown of all Skills and [Enhanced Skill] becomes available. Using [Enhanced Skill] removes [Demonic Blood] stacks. Upon gaining each stack of [Demonic Blood], increases own ATK by 9496 and All Dodge Chance by 40 for 20 sec. This effect can be stacked up to max 5 times.
 **Skill Books** | ATK boost is increased by 10%<br/>ATK boost is increased by 15%<br/>ATK boost is increased by 25%
 **Description** | Player Description
 
 
 # Perks
+
+Col 1 | Col 2 | Col 3
+-- | -- | --
+![S1L](https://www.krindex.net/assets/heroes/nia/s1l.png) | S1L | Scar of Barbarism [Light]
+Relevance | PvE: None | PvP: None
+In-Game Text | Each hit reduces the target's Mana by 100.
+Description | Player Description
+![S1D](https://www.krindex.net/assets/heroes/nia/s2d.png) | S1D | Scar of Barbarism [Dark]
+Relevance | PvE: None | PvP: None
+In-Game Text | Each hit recovers own mana by 100.
+Description | Player Description
+
+
+# Execution
 
 # Gear Options
 ## Gear Lines
