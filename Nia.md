@@ -32,7 +32,31 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 -- | --
 **Mana** | 3
 **Cooldown** | 15 seconds
-**In-Game Description** | Deals **[1.080x + 35620]** P.DMG to 1 enemy. Then, moves forward while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[2.880x + 94986]** P.DMG. The last strike deals **[2.449x + 109243]** P.DMG to frontal enemies and knocks them down for 2 sec.
+**In-Game Description** | Deals **[1.080x + 35620]** P.DMG to 1 enemy. Then, moves forward while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[2.880x + 94986]** P.DMG. The last strike deals **[2.440x + 109243]** P.DMG to frontal enemies and knocks them down for 2 sec.
+**Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
+**Description** | Player Description
+
+![S1.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-2.png) | S1E - Enhanced Scar of Barbarism
+-- | --
+**Mana** | 3
+**Cooldown** | N/A
+**In-Game Description** | Deals **[2.160x + 71942]** P.DMG to 1 enemy. Then, moves to random enemies while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[23.040x + 767381]** P.DMG. The last strike deals **[4.870x + 216584]** P.DMG to frontal enemies and knocks them down for 4 sec.
+**Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
+**Description** | Player Description
+
+![S1.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s2-1.png) | S2 - On the Hunt
+-- | --
+**Mana** | 3
+**Cooldown** | 15 seconds
+**In-Game Description** | Moves behind the farthest enemy to deal **[1.221x + 52477]** P.DMG, and inflicts [Hunt Mark] to all enemies for 12 sec. Enemies under [Hunt Mark] take 20% increased P.DMG and have their Heal Rate reduced by 25%. Dispels all positive effects fro enemies with [Enhanced Hunt Mark].
+**Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
+**Description** | Player Description
+
+![S1.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s2-2.png) | S2E - Enhanced On the Hunt
+-- | --
+**Mana** | 3
+**Cooldown** | N/A
+**In-Game Description** | Moves behind the farthest enemy to deal **[4.024x + 232731]** P.DMG that ignores DEF, and inflicts [Enhanced Hunt Mark] to all enemies for 12 sec. Enemies under [Enhanced Hunt Mark] take 40% increased P.DMG, have their Heal Rate reduced by 50%, and their Atk Spd by 25%. Dispels all positive effects from enemies with [Hunt Mark].
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
