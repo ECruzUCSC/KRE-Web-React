@@ -40,7 +40,7 @@ Category | Information
 ![S1.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-2.png) | **S1E - Enhanced Scar of Barbarism**
 **In-Game Text** | Deals **[2.160x + 71942]** P.DMG to 1 enemy. Then, moves to random enemies while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[23.040x + 767381]** P.DMG. The last strike deals **[4.870x + 216584]** P.DMG to frontal enemies and knocks them down for 4 sec.
 &nbsp; | &nbsp;
-![S1L](https://www.krindex.net/assets/heroes/nia/s1l.png) | **S1L - Scar of Barbarism [Light]**
+<img src="https://www.krindex.net/assets/heroes/nia/s1l.png" width="50" height="50> | **S1L - Scar of Barbarism [Light]**
 **PvE Relevance** | None
 **PvP Relevance** | None
 **In-Game Text** | Each hit reduces the target's Mana by 100.
