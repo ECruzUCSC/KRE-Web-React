@@ -106,7 +106,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 
 # Perks
 
-Col 1 | Col 2 | Col 3
+Col 1 | Col 2 | Col 3 |
 -- | -- | -- |
 ![S1L](https://www.krindex.net/assets/heroes/nia/s1l.png) | S1L - Scar of Barbarism [Light] ||
 Relevance | PvE: None | PvP: None |
