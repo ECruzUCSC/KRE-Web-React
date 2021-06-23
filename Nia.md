@@ -107,15 +107,15 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 # Perks
 
 Col 1 | Col 2 | Col 3
--- | -- | --
-![S1L](https://www.krindex.net/assets/heroes/nia/s1l.png) || S1L - Scar of Barbarism [Light]
-Relevance | PvE: None | PvP: None
-In-Game Text || Each hit reduces the target's Mana by 100.
-Description || Player Description
-![S1D](https://www.krindex.net/assets/heroes/nia/s2d.png) || S1D - Scar of Barbarism [Dark]
-Relevance | PvE: None | PvP: None
-In-Game Text || Each hit recovers own mana by 100.
-Description || Player Description
+-- | -- | -- |
+![S1L](https://www.krindex.net/assets/heroes/nia/s1l.png) | S1L - Scar of Barbarism [Light] ||
+Relevance | PvE: None | PvP: None |
+In-Game Text | Each hit reduces the target's Mana by 100. ||
+Description | Player Description ||
+![S1D](https://www.krindex.net/assets/heroes/nia/s2d.png) | S1D - Scar of Barbarism [Dark] ||
+Relevance | PvE: None | PvP: None |
+In-Game Text | Each hit recovers own mana by 100. ||
+Description | Player Description ||
 
 
 # Execution
