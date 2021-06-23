@@ -108,15 +108,18 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 
 
 
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
-And more      | With an escaped '\|'         ||  
-[Prototype table]
+Col 1 | Col 2
+-- | --
+![S1L](https://www.krindex.net/assets/heroes/nia/s1l.png) | **S1L - Scar of Barbarism [Light]**
+**PvE Relevance** | None
+**PvP Relevance** | None
+**In-Game Text** | Each hit reduces the target's Mana by 100. 
+**Description** | Player Description 
+![S1D](https://www.krindex.net/assets/heroes/nia/s2d.png) | S1D - Scar of Barbarism [Dark] 
+**PvE Relevance** | None
+**PvP Relevance** | None
+**In-Game Text** | Each hit recovers own mana by 100. 
+**Description** | Player Description 
 
 
 # Execution
