@@ -38,11 +38,11 @@ Category | Information
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 ![S1.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-2.png) | **Enhanced Skill<br/>S1E - Enhanced Scar of Barbarism**
 **In-Game Text** | Deals **[2.160x + 71942]** P.DMG to 1 enemy. Then, moves to random enemies while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[23.040x + 767381]** P.DMG. The last strike deals **[4.870x + 216584]** P.DMG to frontal enemies and knocks them down for 4 sec.
-&nbsp; | &nbsp;<br/>**Transcendence Perks**<br/>&nbsp;
-<img src="https://www.krindex.net/assets/heroes/nia/s1l.png" width="80" height="80"/> | **S1L - Scar of Barbarism [Light]**
+&nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
+<img src="https://www.krindex.net/assets/heroes/nia/s1l.png" width="80" height="80"/> | **Transcendence Perk<br/>S1L - Scar of Barbarism [Light]**
 **Relevance** | None
 **In-Game Text** | Each hit reduces the target's Mana by 100.
-<img src="https://www.krindex.net/assets/heroes/nia/s1d.png" width="80" height="80"/> | **S1D - Scar of Barbarism [Dark]** 
+<img src="https://www.krindex.net/assets/heroes/nia/s1d.png" width="80" height="80"/> | **Transcendence Perk<br/>S1D - Scar of Barbarism [Dark]** 
 **Relevance** | None
 **In-Game Text** | Each hit recovers own mana by 100.
 &nbsp; | &nbsp;<br/>&nbsp;
