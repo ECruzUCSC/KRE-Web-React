@@ -29,24 +29,18 @@ Heal Rate Reduction | 25% from S2<br/>50% from S2E
 Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodge.<br/>Dispel from S2 and S2E when used sequentially. 
 
 # Skills
-
-![S1.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-1.png) | **S1 - Scar of Barbarism**
+Category | Information
 -- | :--
+![S1.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-1.png) | **S1 - Scar of Barbarism**
+
 **Mana** | 3
 **Cooldown** | 15 seconds
 **In-Game Text** | Deals **[1.080x + 35620]** P.DMG to 1 enemy. Then, moves forward while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[2.880x + 94986]** P.DMG. The last strike deals **[2.440x + 109243]** P.DMG to frontal enemies and knocks them down for 2 sec.
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
-**Description** | Player Description
-
-<br/>
-<br/>
-
 ![S1.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-2.png) | **S1E - Enhanced Scar of Barbarism**
--- | :--
 **Mana** | 3
 **Cooldown** | N/A
 **In-Game Text** | Deals **[2.160x + 71942]** P.DMG to 1 enemy. Then, moves to random enemies while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[23.040x + 767381]** P.DMG. The last strike deals **[4.870x + 216584]** P.DMG to frontal enemies and knocks them down for 4 sec.
-**Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
 <br/>
@@ -64,7 +58,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 <br/>
 
 ![S2.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s2-2.png) | S2E - Enhanced On the Hunt
--- | --
+-- | :--
 **Mana** | 3
 **Cooldown** | N/A
 **In-Game Text** | Moves behind the farthest enemy to deal **[4.024x + 232731]** P.DMG that ignores DEF, and inflicts [Enhanced Hunt Mark] to all enemies for 12 sec. Enemies under [Enhanced Hunt Mark] take 40% increased P.DMG, have their Heal Rate reduced by 50%, and their Atk Spd by 25%. Dispels all positive effects from enemies with [Hunt Mark].
@@ -75,7 +69,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 <br/>
 
 ![S3.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s3-1.png) | S3 - Demonic Eyes of Petrification
--- | --
+-- | :--
 **Mana** | 3
 **Cooldown** | 30 seconds
 **In-Game Text** | Deals **[2.066x + 119688]** P.DMG to frontal enemies within range 3 times and petrifies them for 3 sec, reducing their All Dodge Chance by 200 for 10 sec.
@@ -86,7 +80,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 <br/>
 
 ![S3.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s3-2.png) | S3E - Enhanced Demonic Eyes of Petrification
--- | --
+-- | :--
 **Mana** | 3
 **Cooldown** | N/A
 **In-Game Text** | Deals **[2.186x + 131088]** P.DMG that ignores DEF to enemies in a wide front range 3 times and petrifies them for 5 sec, reducing their All Dodge Chance by 200 for 10 sec.
@@ -97,7 +91,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 <br/>
 
 ![S4](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s4.png) | S4 - Demonic Blood
--- | --
+-- | :--
 **Mana** | N/A
 **Cooldown** | N/A
 **In-Game Text** | Gains 1 stack of [Demonic Blood] upon using a Skill. It can be stacked up to max 4 times, and upon gaining 4 stacks, resets Cooldown of all Skills and [Enhanced Skill] becomes available. Using [Enhanced Skill] removes [Demonic Blood] stacks. Upon gaining each stack of [Demonic Blood], increases own ATK by 9496 and All Dodge Chance by 40 for 20 sec. This effect can be stacked up to max 5 times.
@@ -117,7 +111,7 @@ Col 1 | Col 2
 **In-Game Text** | Each hit reduces the target's Mana by 100. 
 **Description** | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id felis porttitor, semper turpis non, efficitur mauris. Praesent dui justo, auctor eget consectetur id, tempor in elit. Donec sollicitudin arcu quam, quis laoreet neque laoreet non. Ut aliquam ornare eleifend. Nulla et congue libero. Mauris eu metus eu nibh vulputate auctor. Suspendisse efficitur ac mi in condimentum. Mauris fringilla congue tellus ut commodo. 
 &nbsp; | &nbsp;
-![S1D](https://www.krindex.net/assets/heroes/nia/s2d.png) | S1D - Scar of Barbarism [Dark] 
+![S1D](https://www.krindex.net/assets/heroes/nia/s2d.png) | **S1D - Scar of Barbarism [Dark]** 
 **PvE Relevance** | None
 **PvP Relevance** | None
 **In-Game Text** | Each hit recovers own mana by 100. 
