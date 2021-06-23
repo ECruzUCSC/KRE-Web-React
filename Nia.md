@@ -126,11 +126,15 @@ Category | Information
 **In-Game Text:** ATK is increased by 30%\
 **Breakdown:**
 
+<br/>
+
 #### HP Up
 ![T1 Hp](https://www.krindex.net/assets/genericPerks/HP%20Up.png)\
 **Relevance:** PvE: None, PvP: High\
 **In-Game Text:** HP is increased by 30%\
 **Breakdown:**
+
+<br/>
 
 #### DEF Up
 ![T1 Def](https://www.krindex.net/assets/genericPerks/DEF%20Up.png)\
@@ -138,11 +142,15 @@ Category | Information
 **In-Game Text:** DEF is increased by 30%\
 **Breakdown:**
 
+<br/>
+
 #### Crit Resist Up
 ![T1 Crit Res](https://www.krindex.net/assets/genericPerks/Crit%20Resist%20Up.png)\
 **Relevance:** PvE: None, PvP: High\
 **In-Game Text:** Crit Resistance is increased by 250\
 **Breakdown:**
+
+<br/>
 
 #### Monster Hunting
 ![T1 MH](https://www.krindex.net/assets/genericPerks/Monster%20Hunting.png)\
