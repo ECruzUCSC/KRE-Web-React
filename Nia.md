@@ -183,8 +183,23 @@ Category | Information
 
 # Transcendence Perk Builds
 
-# Gear Options
-## Gear Lines
-## Technomagic Skills
+# Gear
+## Unique Weapon
+![Nia UW](https://www.krindex.net/assets/heroes/nia/uw.png)
+**Rending Chaos, Zakadras**
+**In-Game Text:** Crit Chance is increased by 200-500 and Crit DMG is increased by 40%-100%.
+
+## Soul Weapon
+**Charging Condition:** Charges up upon using Skills 5 times.
+**Cooldown:** 22 seconds
+**Charges:** 5
+**Advancement 0 Effect:** Summons the soul of Rending Chaos, Zakadras, dealing **[x + ]** P.DMG to all enemies, stunning them for 4 sec, and increasing P.DMG the enemies take by 20% for 10 sec. Afterward, increases own ATK by 25% and ATK Spd by 250 for 10 sec.
+**Advancement 1 Effect:** Increases DMG by 30% and P.DMG the enemies take to 40%.
+**Advancement 2 Effect:** Reduces Cooldown by 7 sec. Upon activation, gains 2 stacks of Demonic Blood.
+
+## Unique Treasures
+## Gear Options
+### Gear Lines
+### Technomagic Skills
 
 # Execution
