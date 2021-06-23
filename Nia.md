@@ -38,11 +38,11 @@ Category | Information
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 ![S1.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-2.png) | **S1E - Enhanced Scar of Barbarism**
 **In-Game Text** | Deals **[2.160x + 71942]** P.DMG to 1 enemy. Then, moves to random enemies while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[23.040x + 767381]** P.DMG. The last strike deals **[4.870x + 216584]** P.DMG to frontal enemies and knocks them down for 4 sec.
-![S1L](https://www.krindex.net/assets/heroes/nia/s1l.png | width=50) | **S1L - Scar of Barbarism [Light]**
+![S1L](https://www.krindex.net/assets/heroes/nia/s1l.png =50x50) | **S1L - Scar of Barbarism [Light]**
 **PvE Relevance** | None
 **PvP Relevance** | None
 **In-Game Text** | Each hit reduces the target's Mana by 100.
-![S1D](https://www.krindex.net/assets/heroes/nia/s2d.png | width=50) | **S1D - Scar of Barbarism [Dark]** 
+![S1D](https://www.krindex.net/assets/heroes/nia/s2d.png =50x50) | **S1D - Scar of Barbarism [Dark]** 
 **PvE Relevance** | None
 **PvP Relevance** | None
 **In-Game Text** | Each hit recovers own mana by 100. 
