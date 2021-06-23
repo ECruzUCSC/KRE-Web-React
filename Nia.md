@@ -28,6 +28,9 @@ Heal Rate Reduction | 25% from S2<br/>50% from S2E
 Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodge.<br/>Dispel from S2 and S2E when used sequentially. 
 
 # Skills
+Skill Icon | Skill Info
+-- | --
+![S1.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-1.png) | S1 - Scar of Barbarism
 
 # Perks
 
