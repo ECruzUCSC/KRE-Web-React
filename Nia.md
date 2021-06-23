@@ -48,6 +48,10 @@ Category | Information
 &nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
 **Breakdown** | Player Description
 
+<br/>
+<br/>
+<br/>
+
 Category | Information
 -- | --
 ![S2.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s2-1.png) | **Base Skill<br/>S2 - On the Hunt**
@@ -69,36 +73,47 @@ Category | Information
 
 <br/>
 <br/>
+<br/>
 
-![S3.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s3-1.png) | S3 - Demonic Eyes of Petrification
--- | :--
+Category | Information
+-- | --
+![S3.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s3-1.png) | **Base Skill<br/>S3 - Demonic Eyes of Petrification**
 **Mana** | 3
 **Cooldown** | 30 seconds
 **In-Game Text** | Deals **[2.066x + 119688]** P.DMG to frontal enemies within range 3 times and petrifies them for 3 sec, reducing their All Dodge Chance by 200 for 10 sec.
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
-**Description** | Player Description
-
-<br/>
-<br/>
-
 ![S3.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s3-2.png) | S3E - Enhanced Demonic Eyes of Petrification
--- | :--
-**Mana** | 3
-**Cooldown** | N/A
 **In-Game Text** | Deals **[2.186x + 131088]** P.DMG that ignores DEF to enemies in a wide front range 3 times and petrifies them for 5 sec, reducing their All Dodge Chance by 200 for 10 sec.
-**Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
-**Description** | Player Description
+&nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
+<img src="https://www.krindex.net/assets/heroes/nia/s3l.png" width="80" height="80"/> | **Transcendence Perk<br/>S3L - Demonic Eyes of Petrification [Light]**
+**Relevance** | PvE: None, PvP: Medium
+**In-Game Text** | Gains immunity to CC for the skill duration.
+<img src="https://www.krindex.net/assets/heroes/nia/s3d.png" width="80" height="80"/> | **Transcendence Perk<br/>S3D - Demonic Eyes of Petrification [Dark]** 
+**Relevance** | PvE: Core, PvP: None
+**In-Game Text** | Increases DMG to Non-Hero enemies by 100% for the skill duration.
+&nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
+**Breakdown** | Player Description
 
 <br/>
 <br/>
+<br/>
 
+Category | Information
+-- | --
 ![S4](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s4.png) | S4 - Demonic Blood
--- | :--
 **Mana** | N/A
 **Cooldown** | N/A
 **In-Game Text** | Gains 1 stack of [Demonic Blood] upon using a Skill. It can be stacked up to max 4 times, and upon gaining 4 stacks, resets Cooldown of all Skills and [Enhanced Skill] becomes available. Using [Enhanced Skill] removes [Demonic Blood] stacks. Upon gaining each stack of [Demonic Blood], increases own ATK by 9496 and All Dodge Chance by 40 for 20 sec. This effect can be stacked up to max 5 times.
 **Skill Books** | ATK boost is increased by 10%<br/>ATK boost is increased by 15%<br/>ATK boost is increased by 25%
-**Description** | Player Description
+&nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
+<img src="https://www.krindex.net/assets/heroes/nia/s4l.png" width="80" height="80"/> | **Transcendence Perk<br/>S4L - Demonic Blood [Light]**
+**Relevance** | PvE: None, PvP: Medium
+**In-Game Text** | Whenever Nia gains a stack of [Demonic Blood], heals own HP equal to 8% of Max HP.
+<img src="https://www.krindex.net/assets/heroes/nia/s4d.png" width="80" height="80"/> | **Transcendence Perk<br/>S4D - Demonic Blood [Dark]** 
+**Relevance** | PvE: Core, PvP: None
+**In-Game Text** | Upon gaining 4 stacks of [Demonic Blood], recovers 2 orbs of Mana and increases own ATK by 50% for 5 sec.
+&nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
+**Breakdown** | Player Description
 
 
 # Perks
