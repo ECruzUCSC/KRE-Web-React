@@ -45,12 +45,12 @@ Category | Information
 **PvP Relevance** | None
 **In-Game Text** | Each hit reduces the target's Mana by 100.
 &nbsp; | &nbsp;<br/>&nbsp;
-<img src="https://www.krindex.net/assets/heroes/nia/s1d.png" width="80" height="80"/> | **<Transcendence Perk<br/>S1D - Scar of Barbarism [Dark]** 
+<img src="https://www.krindex.net/assets/heroes/nia/s1d.png" width="80" height="80"/> | **Transcendence Perk<br/>S1D - Scar of Barbarism [Dark]** 
 **PvE Relevance** | None
 **PvP Relevance** | None
 **In-Game Text** | Each hit recovers own mana by 100.
-**Breakdown** | 
-**Notes** | Player Description
+&nbsp; | &nbsp;<br/>&nbsp;
+**Breakdown** | Player Description
 
 <br/>
 <br/>
