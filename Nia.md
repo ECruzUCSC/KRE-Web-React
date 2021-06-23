@@ -181,23 +181,10 @@ Category | Information
 &nbsp; | &nbsp;
 **Breakdown:**
 
-Col 1 | Col 2
--- | --
-![S1L](https://www.krindex.net/assets/heroes/nia/light.png) | **S1L - Scar of Barbarism [Light]**
-**PvE Relevance** | None
-**PvP Relevance** | None
-**In-Game Text** | Each hit reduces the target's Mana by 100. 
-**Description** | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id felis porttitor, semper turpis non, efficitur mauris. Praesent dui justo, auctor eget consectetur id, tempor in elit. Donec sollicitudin arcu quam, quis laoreet neque laoreet non. Ut aliquam ornare eleifend. Nulla et congue libero. Mauris eu metus eu nibh vulputate auctor. Suspendisse efficitur ac mi in condimentum. Mauris fringilla congue tellus ut commodo. 
-&nbsp; | &nbsp;
-![S1D](https://www.krindex.net/assets/heroes/nia/dark.png) | **S1D - Scar of Barbarism [Dark]** 
-**PvE Relevance** | None
-**PvP Relevance** | None
-**In-Game Text** | Each hit recovers own mana by 100. 
-**Description** | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id felis porttitor, semper turpis non, efficitur mauris. Praesent dui justo, auctor eget consectetur id, tempor in elit. Donec sollicitudin arcu quam, quis laoreet neque laoreet non. Ut aliquam ornare eleifend. Nulla et congue libero. Mauris eu metus eu nibh vulputate auctor. Suspendisse efficitur ac mi in condimentum. Mauris fringilla congue tellus ut commodo. 
-&nbsp; | &nbsp;
-
-# Execution
+# Transcendence Perk Builds
 
 # Gear Options
 ## Gear Lines
 ## Technomagic Skills
+
+# Execution
