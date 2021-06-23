@@ -124,23 +124,19 @@ Category | Information
 -- | --
 ![T1 Atk](https://www.krindex.net/assets/genericPerks/ATK%20Up.png) | **ATK Up**
 **Relevance** | PvE: Core, PvP: High
-**In-Game Text** | ATK is increased by 30%<br/>
+**In-Game Text** | ATK is increased by 30%<br/>&nbsp;
 ![T1 Hp](https://www.krindex.net/assets/genericPerks/HP%20Up.png) | **HP Up**
 **Relevance** | PvE: None, PvP: High
-**In-Game Text** | HP is increased by 30%<br/>
+**In-Game Text** | HP is increased by 30%<br/>&nbsp;
 ![T1 Def](https://www.krindex.net/assets/genericPerks/DEF%20Up.png) | **DEF Up**
 **Relevance** | PvE: None, PvP: High
-**In-Game Text** | DEF is increased by 30%<br/>
+**In-Game Text** | DEF is increased by 30%<br/>&nbsp;
 ![T1 Crit Res](https://www.krindex.net/assets/genericPerks/Crit%20Resist%20Up.png) | **Crit Resist Up**
 **Relevance** | PvE: None, PvP: High
-**In-Game Text** | Crit Resistance is increased by 250<br/>
-
-<br/>
-
-#### Monster Hunting
-![T1 MH](https://www.krindex.net/assets/genericPerks/Monster%20Hunting.png)\
-**Relevance:** PvE: Core, PvP: High\
-**In-Game Text:** Increases DMG to Non-Hero Enemies by 10% and takes 10% reduced DMG.\
+**In-Game Text** | Crit Resistance is increased by 250<br/>&nbsp;
+![T1 MH](https://www.krindex.net/assets/genericPerks/Monster%20Hunting.png) | **Monster Hunting**
+**Relevance** | PvE: Core, PvP: High
+**In-Game Text** | Increases DMG to Non-Hero Enemies by 10% and takes 10% reduced DMG.<br/>&nbsp;
 **Breakdown:**
 
 ## Transcendence 2 Perks
