@@ -40,10 +40,10 @@ Category | Information
 **In-Game Text** | Deals **[2.160x + 71942]** P.DMG to 1 enemy. Then, moves to random enemies while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[23.040x + 767381]** P.DMG. The last strike deals **[4.870x + 216584]** P.DMG to frontal enemies and knocks them down for 4 sec.
 &nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
 <img src="https://www.krindex.net/assets/heroes/nia/s1l.png" width="80" height="80"/> | **Transcendence Perk<br/>S1L - Scar of Barbarism [Light]**
-**Relevance** | None
+**Relevance** | PvE: None, PvP: None
 **In-Game Text** | Each hit reduces the target's Mana by 100.
 <img src="https://www.krindex.net/assets/heroes/nia/s1d.png" width="80" height="80"/> | **Transcendence Perk<br/>S1D - Scar of Barbarism [Dark]** 
-**Relevance** | None
+**Relevance** | PvE: None, PvP: None
 **In-Game Text** | Each hit recovers own mana by 100.
 &nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
 **Breakdown** | Player Description
@@ -107,10 +107,10 @@ Category | Information
 **Skill Books** | ATK boost is increased by 10%<br/>ATK boost is increased by 15%<br/>ATK boost is increased by 25%
 &nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
 <img src="https://www.krindex.net/assets/heroes/nia/s4l.png" width="80" height="80"/> | **Transcendence Perk<br/>S4L - Demonic Blood [Light]**
-**Relevance** | PvE: None, PvP: Medium
+**Relevance** | PvE: None, PvP: None
 **In-Game Text** | Whenever Nia gains a stack of [Demonic Blood], heals own HP equal to 8% of Max HP.
 <img src="https://www.krindex.net/assets/heroes/nia/s4d.png" width="80" height="80"/> | **Transcendence Perk<br/>S4D - Demonic Blood [Dark]** 
-**Relevance** | PvE: Core, PvP: None
+**Relevance** | PvE: Core, PvP: Core
 **In-Game Text** | Upon gaining 4 stacks of [Demonic Blood], recovers 2 orbs of Mana and increases own ATK by 50% for 5 sec.
 &nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
 **Breakdown** | Player Description
