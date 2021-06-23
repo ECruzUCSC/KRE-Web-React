@@ -2,6 +2,7 @@
 This guide will cover Nia in an indepth fashion, that is to say it will have the basics, but also some very specific information on how the character works. I intend to cover mostly PvE but will also cover PvP in broad strokes. 
 
 # Character Overview
+![Nia Thumbnail](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroThumbnails/Assassin/assassin_portrait10_nia.png)
 **Name**: Nia\
 **Class**: Assassin\
 **Damage Type**: Physical\
@@ -100,7 +101,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 <br/>
 <br/>
 
-![S4](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s3-2.png) | S4 - Demonic Blood
+![S4](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s4.png) | S4 - Demonic Blood
 -- | --
 **Mana** | N/A
 **Cooldown** | N/A
