@@ -117,6 +117,16 @@ Relevance | PvE: None | PvP: None |
 In-Game Text | Each hit recovers own mana by 100. ||
 Description | Player Description ||
 
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
+[Prototype table]
+
 
 # Execution
 
