@@ -120,35 +120,20 @@ Category | Information
 
 ## Transcendence 1 Perks
 
-#### ATK Up
-![T1 Atk](https://www.krindex.net/assets/genericPerks/ATK%20Up.png)\
-**Relevance:** PvE: Core, PvP: High\
-**In-Game Text:** ATK is increased by 30%\
-**Breakdown:**
-
-<br/>
-
-#### HP Up
-![T1 Hp](https://www.krindex.net/assets/genericPerks/HP%20Up.png)\
-**Relevance:** PvE: None, PvP: High\
-**In-Game Text:** HP is increased by 30%\
-**Breakdown:**
-
-<br/>
-
-#### DEF Up
-![T1 Def](https://www.krindex.net/assets/genericPerks/DEF%20Up.png)\
-**Relevance:** PvE: None, PvP: High\
-**In-Game Text:** DEF is increased by 30%\
-**Breakdown:**
-
-<br/>
-
-#### Crit Resist Up
-![T1 Crit Res](https://www.krindex.net/assets/genericPerks/Crit%20Resist%20Up.png)\
-**Relevance:** PvE: None, PvP: High\
-**In-Game Text:** Crit Resistance is increased by 250\
-**Breakdown:**
+Category | Information
+-- | --
+![T1 Atk](https://www.krindex.net/assets/genericPerks/ATK%20Up.png) | **ATK Up**
+**Relevance** | PvE: Core, PvP: High
+**In-Game Text** | ATK is increased by 30%<br/>
+![T1 Hp](https://www.krindex.net/assets/genericPerks/HP%20Up.png) | **HP Up**
+**Relevance** | PvE: None, PvP: High
+**In-Game Text** | HP is increased by 30%<br/>
+![T1 Def](https://www.krindex.net/assets/genericPerks/DEF%20Up.png) | **DEF Up**
+**Relevance** | PvE: None, PvP: High
+**In-Game Text** | DEF is increased by 30%<br/>
+![T1 Crit Res](https://www.krindex.net/assets/genericPerks/Crit%20Resist%20Up.png) | **Crit Resist Up**
+**Relevance** | PvE: None, PvP: High
+**In-Game Text** | Crit Resistance is increased by 250<br/>
 
 <br/>
 
