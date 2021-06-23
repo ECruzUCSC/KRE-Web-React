@@ -48,6 +48,10 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 **Description** | Player Description
 
+<br/>
+<br/>
+<br/>
+
 ![S2.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s2-1.png) | S2 - On the Hunt
 -- | --
 **Mana** | 3
@@ -90,6 +94,18 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 **Cooldown** | N/A
 **In-Game Description** | Deals **[2.186x + 131088]** P.DMG that ignores DEF to enemies in a wide front range 3 times and petrifies them for 5 sec, reducing their All Dodge Chance by 200 for 10 sec.
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
+**Description** | Player Description
+
+<br/>
+<br/>
+<br/>
+
+![S4](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s3-2.png) | S4 - Demonic Blood
+-- | --
+**Mana** | N/A
+**Cooldown** | N/A
+**In-Game Description** | Gains 1 stack of [Demonic Blood] upon using a Skill. It can be stacked up to max 4 times, and upon gaining 4 stacks, resets Cooldown of all Skills and [Enhanced Skill] becomes available. Using [Enhanced Skill] removes [Demonic Blood] stacks. Upon gaining each stack of [Demonic Blood], increases own ATK by 9496 and All Dodge Chance by 40 for 20 sec. This effect can be stacked up to max 5 times.
+**Skill Books** | ATK boost is increased by 10%<br/>ATK boost is increased by 15%<br/>ATK boost is increased by 25%
 **Description** | Player Description
 
 
