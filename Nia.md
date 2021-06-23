@@ -30,9 +30,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 # Skills
 Skill Icon | Skill Info
 -- | --
-![S1.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-1.png) | {
-S1 - Scar of Barbarism
-}
+![S1.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-1.png) | ##S1 - Scar of Barbarism<br>**Description:** S1 Description
 
 
 # Perks
