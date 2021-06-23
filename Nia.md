@@ -118,8 +118,7 @@ Category | Information
 
 # Perks
 
-## Transcendence 1 Perks
-
+## Transcendence 1 Generic Perks
 Category | Information
 -- | --
 ![T1 Atk](https://www.krindex.net/assets/genericPerks/ATK%20Up.png) | **ATK Up**
@@ -144,19 +143,53 @@ Category | Information
 &nbsp; | &nbsp;
 **Breakdown:**
 
-## Transcendence 2 Perks
+## Transcendence 2 Assassin Perks
+Category | Information
+-- | --
+![Target Weakness](https://www.krindex.net/assets/genericPerks/Target%20Weakness.png) | **Target Weakness**
+**Relevance** | PvE: Core, PvP: Low
+**In-Game Text** | ATK rises by 20% and DEF Penetration rises by 200.
+&nbsp; | &nbsp;
+![Swift and Nimble](https://www.krindex.net/assets/genericPerks/Swift%20and%20Nimble.png) | **Swift and Nimble**
+**Relevance** | PvE: None, PvP: None
+**In-Game Text** | Per every sec, Dodge rate is increased by 100. This effect can be stacked up to max 5 times, and resets upon dodging an Attack.
+&nbsp; | &nbsp;
+![Tactical Foresight](https://www.krindex.net/assets/genericPerks/Tactical%20Foresight.png) | **Tactical Foresight**
+**Relevance** | PvE: None, PvP: High
+**In-Game Text** | Dodge rate is increased by 200 and takes 10% reduced DMG.
+&nbsp; | &nbsp;
+![Opportune Strike](https://www.krindex.net/assets/genericPerks/Opportune%20Strike.png) | **Opportune Strike**
+**Relevance** | PvE: Medium, PvP: Medium
+**In-Game Text** | Crit Chance is increased by 150 and Crit DMG is increased by 30%.
+&nbsp; | &nbsp;
+![Vital Detection](https://www.krindex.net/assets/genericPerks/Vital%20Detection.png) | **Vital Detection**
+**Relevance** | PvE: Low, PvP: None
+**In-Game Text** | Upon attack, causes the target to take 10% increased All DMG and have their ATK Spd reduced by 100 for 10 sec. This effect activates once every 3 sec.
+&nbsp; | &nbsp;
+**Breakdown:**
 
-## Transcendence 5 Perks
+## Transcendence 5 Nia Perks
+Category | Information
+-- | --
+![T5L](https://www.krindex.net/assets/heroes/nia/light.png) | **T5L - Nia [Light]**
+**Relevance** | PvE: High, PvP: High
+**In-Game Text** | ATK, DEF, HP+15% / ATK.Spd +100
+&nbsp; | &nbsp;
+![T5D](https://www.krindex.net/assets/heroes/nia/dark.png) | **T5D - Nia [Dark]**
+**Relevance** | PvE: Core, PvP: Low
+**In-Game Text** | Normal attacks and [Enhanced Scar of Barbarism] deal additional P.DMG equal to 25% of ATK that ignores DEF.
+&nbsp; | &nbsp;
+**Breakdown:**
 
 Col 1 | Col 2
 -- | --
-![S1L](https://www.krindex.net/assets/heroes/nia/s1l.png) | **S1L - Scar of Barbarism [Light]**
+![S1L](https://www.krindex.net/assets/heroes/nia/light.png) | **S1L - Scar of Barbarism [Light]**
 **PvE Relevance** | None
 **PvP Relevance** | None
 **In-Game Text** | Each hit reduces the target's Mana by 100. 
 **Description** | Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque id felis porttitor, semper turpis non, efficitur mauris. Praesent dui justo, auctor eget consectetur id, tempor in elit. Donec sollicitudin arcu quam, quis laoreet neque laoreet non. Ut aliquam ornare eleifend. Nulla et congue libero. Mauris eu metus eu nibh vulputate auctor. Suspendisse efficitur ac mi in condimentum. Mauris fringilla congue tellus ut commodo. 
 &nbsp; | &nbsp;
-![S1D](https://www.krindex.net/assets/heroes/nia/s2d.png) | **S1D - Scar of Barbarism [Dark]** 
+![S1D](https://www.krindex.net/assets/heroes/nia/dark.png) | **S1D - Scar of Barbarism [Dark]** 
 **PvE Relevance** | None
 **PvP Relevance** | None
 **In-Game Text** | Each hit recovers own mana by 100. 
