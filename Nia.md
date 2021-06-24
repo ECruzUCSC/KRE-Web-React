@@ -85,11 +85,8 @@ Player Description here. S1 is bad.
 
 **Breakdown:** S1 is bad.
 
-<br/>
-<br/>
-<br/>
-
-Category | Information
+## S2
+&nbsp; | Main Skill
 -- | --
 ![S2.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s2-1.png) | **Base Skill<br/>S2 - On the Hunt**
 **Mana** | 3
@@ -98,21 +95,25 @@ Category | Information
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 ![S2.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s2-2.png) | **Enhanced Skill<br/>S2E - Enhanced On the Hunt**
 **In-Game Text** | Moves behind the farthest enemy to deal **[4.024x + 232731]** P.DMG that ignores DEF, and inflicts [Enhanced Hunt Mark] to all enemies for 12 sec. Enemies under [Enhanced Hunt Mark] take 40% increased P.DMG, have their Heal Rate reduced by 50%, and their Atk Spd by 25%. Dispels all positive effects from enemies with [Hunt Mark].
-&nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
+
+&nbsp; | Unique Treasure
+-- | --
+<img src="https://www.krindex.net/assets/heroes/nia/ut2.png" width="80" height="80"/> | **Unique Treasure 2 - Gift of Hunter**
+**In-Game Text** | [Scar of Barbarism] [On the Hunt] Increases DMG by 50% and P.DMG increase inflicted by [Hunt Mark] and [Enhanced Hunt Mark] by an additional 8-20%.
+
+&nbsp; | Transcendence Perks
+-- | --
 <img src="https://www.krindex.net/assets/heroes/nia/s2l.png" width="80" height="80"/> | **Transcendence Perk<br/>S2L - On the Hunt [Light]**
 **Relevance** | PvE: None, PvP: High
 **In-Game Text** | Reduces Mana Cost by 1.
 <img src="https://www.krindex.net/assets/heroes/nia/s2d.png" width="80" height="80"/> | **Transcendence Perk<br/>S2D - On the Hunt [Dark]** 
 **Relevance** | PvE: None, PvP: Medium
 **In-Game Text** | [Hunt Mark] and [Enhanced Hunt Mark] cannot be dispelled by skills that remove negative effects.
-&nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
-**Breakdown** | Player Description
 
-<br/>
-<br/>
-<br/>
+**Breakdown:** Support gud.
 
-Category | Information
+## S3
+&nbsp; | Main Skill
 -- | --
 ![S3.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s3-1.png) | **Base Skill<br/>S3 - Demonic Eyes of Petrification**
 **Mana** | 3
@@ -121,36 +122,46 @@ Category | Information
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 ![S3.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s3-2.png) | **Enhanced Skill<br/>S3E - Enhanced Demonic Eyes of Petrification**
 **In-Game Text** | Deals **[2.186x + 131088]** P.DMG that ignores DEF to enemies in a wide front range 3 times and petrifies them for 5 sec, reducing their All Dodge Chance by 200 for 10 sec.
-&nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
+
+&nbsp; | Unique Treasure
+-- | --
+<img src="https://www.krindex.net/assets/heroes/nia/ut3.png" width="80" height="80"/> | **Unique Treasure 3 - Bone Mask of Spell**
+**In-Game Text** | [Demonic Eyes of Petrification] Pulls enemies to the front upon casting, and reduces Mana of enemies by 200-500 upon hit.
+
+&nbsp; | Transcendence Perks
 <img src="https://www.krindex.net/assets/heroes/nia/s3l.png" width="80" height="80"/> | **Transcendence Perk<br/>S3L - Demonic Eyes of Petrification [Light]**
 **Relevance** | PvE: None, PvP: Medium
 **In-Game Text** | Gains immunity to CC for the skill duration.
 <img src="https://www.krindex.net/assets/heroes/nia/s3d.png" width="80" height="80"/> | **Transcendence Perk<br/>S3D - Demonic Eyes of Petrification [Dark]** 
 **Relevance** | PvE: Core, PvP: None
 **In-Game Text** | Increases DMG to Non-Hero enemies by 100% for the skill duration.
-&nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
-**Breakdown** | Player Description
 
-<br/>
-<br/>
-<br/>
+**Breakdown:** Much damage.
 
-Category | Information
+## S4
+&nbsp; | Main Skill
 -- | --
 ![S4](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s4.png) | **S4 - Demonic Blood**
 **Mana** | N/A
 **Cooldown** | N/A
 **In-Game Text** | Gains 1 stack of [Demonic Blood] upon using a Skill. It can be stacked up to max 4 times, and upon gaining 4 stacks, resets Cooldown of all Skills and [Enhanced Skill] becomes available. Using [Enhanced Skill] removes [Demonic Blood] stacks. Upon gaining each stack of [Demonic Blood], increases own ATK by 9496 and All Dodge Chance by 40 for 20 sec. This effect can be stacked up to max 5 times.
 **Skill Books** | ATK boost is increased by 10%<br/>ATK boost is increased by 15%<br/>ATK boost is increased by 25%
-&nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
+
+&nbsp; | Unique Treasure
+-- | --
+<img src="https://www.krindex.net/assets/heroes/nia/ut4.png" width="80" height="80"/> | **Unique Treasure 4 - Blood Stabilizer**
+**In-Game Text** | [Demonic Blood] At the beginning of every battle, gains 1 stack of Demonic Blood. 4 stacks of Demonic Blood will grant immunity to CC for 2-5 sec.
+
+&nbsp; | Transcendence Perks
+-- | --
 <img src="https://www.krindex.net/assets/heroes/nia/s4l.png" width="80" height="80"/> | **Transcendence Perk<br/>S4L - Demonic Blood [Light]**
 **Relevance** | PvE: None, PvP: None
 **In-Game Text** | Whenever Nia gains a stack of [Demonic Blood], heals own HP equal to 8% of Max HP.
 <img src="https://www.krindex.net/assets/heroes/nia/s4d.png" width="80" height="80"/> | **Transcendence Perk<br/>S4D - Demonic Blood [Dark]** 
 **Relevance** | PvE: Core, PvP: Core
 **In-Game Text** | Upon gaining 4 stacks of [Demonic Blood], recovers 2 orbs of Mana and increases own ATK by 50% for 5 sec.
-&nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
-**Breakdown** | Player Description
+
+**Breakdown:** PvP wow.
 
 
 # Perks
