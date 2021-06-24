@@ -129,6 +129,7 @@ Player Description here. S1 is bad.
 **In-Game Text** | [Demonic Eyes of Petrification] Pulls enemies to the front upon casting, and reduces Mana of enemies by 200-500 upon hit.
 
 &nbsp; | Transcendence Perks
+-- | --
 <img src="https://www.krindex.net/assets/heroes/nia/s3l.png" width="80" height="80"/> | **Transcendence Perk<br/>S3L - Demonic Eyes of Petrification [Light]**
 **Relevance** | PvE: None, PvP: Medium
 **In-Game Text** | Gains immunity to CC for the skill duration.
