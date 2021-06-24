@@ -29,9 +29,11 @@ Defense Ignore | Very Small amount of Defense Ignore on auto attack, S1 and S1E 
 Damage Amplification | 20% Physical Amp from S2<br/>40% Physical Amp from S2E<br/>8-20% Physical Amp from UT2 on S2<br/>8-20% Physical Amp from UT2 on S2E
 Heal Rate Reduction | 25% from S2<br/>50% from S2E
 Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodge.<br/>Dispel from S2 and S2E when used sequentially. 
+
 <br/>&nbsp;
 <br/>&nbsp;
 <br/>&nbsp;
+
 # Skills
 ## S1
 &nbsp; | Main Skill
@@ -226,10 +228,8 @@ Category | Information
 **Advancement 2 Effect:** Reduces Cooldown by 7 sec. Upon activation, gains 2 stacks of Demonic Blood.
 
 ## Unique Treasures
-![UT1]
-![UT2]
-![UT3]
-![UT4]
+Covered above in the Skills section.
+
 ## Gear Options
 ### Gear Lines
 ### Technomagic Skills
