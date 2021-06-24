@@ -29,6 +29,30 @@ Heal Rate Reduction | 25% from S2<br/>50% from S2E
 Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodge.<br/>Dispel from S2 and S2E when used sequentially. 
 
 # Skills
+## S1
+### Base Skill - Scar of Barbarism
+![S1.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-1.png)\
+**In-Game Text:** Deals **[1.080x + 35620]** P.DMG to 1 enemy. Then, moves forward while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[2.880x + 94986]:** P.DMG. The last strike deals **[2.440x + 109243]** P.DMG to frontal enemies and knocks them down for 2 sec.\
+**Skill Books:** DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
+
+### Enhanced Skill - Enhanced Scar of Barbarism
+![S1.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-2.png)\
+**In-Game Text:** Deals **[2.160x + 71942]** P.DMG to 1 enemy. Then, moves to random enemies while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[23.040x + 767381]** P.DMG. The last strike deals **[4.870x + 216584]** P.DMG to frontal enemies and knocks them down for 4 sec.
+
+### UT1 - Flower of Jungle
+<img src="https://www.krindex.net/assets/heroes/nia/ut1.png" width="80" height="80"/>\
+**In-Game Text:** [Scar of Barbarism] Reduces Mana Cost by 1 and reduces P.Crit Resistance of the affected enemy by 200-500 for 10 sec.
+
+### Transcendence Perks
+<img src="https://www.krindex.net/assets/heroes/nia/s1l.png" width="80" height="80"/>\
+**S1L - Scar of Barbarism [Light]**\
+**Relevance:** PvE: None, PvP: None\
+**In-Game Text:** Each hit reduces the target's Mana by 100.\
+<img src="https://www.krindex.net/assets/heroes/nia/s1d.png" width="80" height="80"/>\
+**S1D - Scar of Barbarism [Dark]**\
+**Relevance:** PvE: None, PvP: None\
+**In-Game Text:** Each hit recovers own mana by 100.
+
 Category | Information
 -- | --
 ![S1.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-1.png) | **Base Skill<br/>S1 - Scar of Barbarism**
@@ -198,6 +222,10 @@ Category | Information
 **Advancement 2 Effect:** Reduces Cooldown by 7 sec. Upon activation, gains 2 stacks of Demonic Blood.
 
 ## Unique Treasures
+![UT1]
+![UT2]
+![UT3]
+![UT4]
 ## Gear Options
 ### Gear Lines
 ### Technomagic Skills
