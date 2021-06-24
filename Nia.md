@@ -57,8 +57,10 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 ### Breakdown
 Player Description here. S1 is bad.
 
-&nbsp; | Skills
--- | :--
+# Skills
+## S1
+&nbsp; | Main Skill
+-- | --
 ![S1.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-1.png) | **Base Skill<br/>S1 - Scar of Barbarism**
 **Mana** | 3
 **Cooldown** | 15 seconds
@@ -66,10 +68,14 @@ Player Description here. S1 is bad.
 **Skill Books** | DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
 ![S1.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-2.png) | **Enhanced Skill<br/>S1E - Enhanced Scar of Barbarism**
 **In-Game Text** | Deals **[2.160x + 71942]** P.DMG to 1 enemy. Then, moves to random enemies while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[23.040x + 767381]** P.DMG. The last strike deals **[4.870x + 216584]** P.DMG to frontal enemies and knocks them down for 4 sec.
-&nbsp; | &nbsp;<br/>&nbsp;<br/>**Unique Treasure**
+
+&nbsp; | Unique Treasure
+-- | --
 <img src="https://www.krindex.net/assets/heroes/nia/ut1.png" width="80" height="80"/> | **Unique Treasure 1 - Flower of the Jungle**
 **In-Game Text** | [Scar of Barbarism] Reduces Mana Cost by 1 and reduces P.Crit Resistance of the affected enemy by 200-500 for 10 sec.
-&nbsp; | &nbsp;<br/>&nbsp;<br/>**Transcendence Perks**
+
+&nbsp; | Transcendence Perks
+-- | --
 <img src="https://www.krindex.net/assets/heroes/nia/s1l.png" width="80" height="80"/> | **Transcendence Perk<br/>S1L - Scar of Barbarism [Light]**
 **Relevance** | PvE: None, PvP: None
 **In-Game Text** | Each hit reduces the target's Mana by 100.
