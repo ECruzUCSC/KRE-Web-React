@@ -16,7 +16,9 @@ In practice, this makes Nia very good in Galgoria Stages 7-9. Galgoria has decen
 Unfortunately, Nia does not see much usage in PvE outside of Galgoria. She can function as a decent tank in Trial of the Sky and even as a dps when given an A2 soul weapon. She does decently well in clearing content, but the reason why she's seldom used is because her potential in scoring content is quite low. Because defense ignore is such a strong mechanic, it often comes with the drawback of low raw damage output.
 
 In PvP, ...
-
+<br/>&nbsp;
+<br/>&nbsp;
+<br/>&nbsp;
 # Statistics
 Category | Values
 -- | --
@@ -27,36 +29,9 @@ Defense Ignore | Very Small amount of Defense Ignore on auto attack, S1 and S1E 
 Damage Amplification | 20% Physical Amp from S2<br/>40% Physical Amp from S2E<br/>8-20% Physical Amp from UT2 on S2<br/>8-20% Physical Amp from UT2 on S2E
 Heal Rate Reduction | 25% from S2<br/>50% from S2E
 Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodge.<br/>Dispel from S2 and S2E when used sequentially. 
-
-# Skills
-## S1
-### Base Skill - Scar of Barbarism
-![S1.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-1.png)\
-**In-Game Text:** Deals **[1.080x + 35620]** P.DMG to 1 enemy. Then, moves forward while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[2.880x + 94986]:** P.DMG. The last strike deals **[2.440x + 109243]** P.DMG to frontal enemies and knocks them down for 2 sec.\
-**Skill Books:** DMG is increased by 10%<br/>DMG is increased by 15%<br/>DMG is increased by 25%
-
-### Enhanced Skill - Enhanced Scar of Barbarism
-![S1.2](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-2.png)\
-**In-Game Text:** Deals **[2.160x + 71942]** P.DMG to 1 enemy. Then, moves to random enemies while continuously attacking the nearby area and knocking back hit enemies to deal a total of **[23.040x + 767381]** P.DMG. The last strike deals **[4.870x + 216584]** P.DMG to frontal enemies and knocks them down for 4 sec.
-
-### UT1 - Flower of Jungle
-<img src="https://www.krindex.net/assets/heroes/nia/ut1.png" width="80" height="80"/>\
-**In-Game Text:** [Scar of Barbarism] Reduces Mana Cost by 1 and reduces P.Crit Resistance of the affected enemy by 200-500 for 10 sec.
-
-### Transcendence Perks
-<img src="https://www.krindex.net/assets/heroes/nia/s1l.png" width="80" height="80"/>\
-**S1L - Scar of Barbarism [Light]**\
-**Relevance:** PvE: None, PvP: None\
-**In-Game Text:** Each hit reduces the target's Mana by 100.\
 <br/>&nbsp;
-<img src="https://www.krindex.net/assets/heroes/nia/s1d.png" width="80" height="80"/>\
-**S1D - Scar of Barbarism [Dark]**\
-**Relevance:** PvE: None, PvP: None\
-**In-Game Text:** Each hit recovers own mana by 100.
-
-### Breakdown
-Player Description here. S1 is bad.
-
+<br/>&nbsp;
+<br/>&nbsp;
 # Skills
 ## S1
 &nbsp; | Main Skill
@@ -84,6 +59,7 @@ Player Description here. S1 is bad.
 **In-Game Text** | Each hit recovers own mana by 100.
 
 **Breakdown:** S1 is bad.
+<br/>&nbsp;
 
 ## S2
 &nbsp; | Main Skill
@@ -111,6 +87,7 @@ Player Description here. S1 is bad.
 **In-Game Text** | [Hunt Mark] and [Enhanced Hunt Mark] cannot be dispelled by skills that remove negative effects.
 
 **Breakdown:** Support gud.
+<br/>&nbsp;
 
 ## S3
 &nbsp; | Main Skill
@@ -138,6 +115,7 @@ Player Description here. S1 is bad.
 **In-Game Text** | Increases DMG to Non-Hero enemies by 100% for the skill duration.
 
 **Breakdown:** Much damage.
+<br/>&nbsp;
 
 ## S4
 &nbsp; | Main Skill
@@ -163,10 +141,11 @@ Player Description here. S1 is bad.
 **In-Game Text** | Upon gaining 4 stacks of [Demonic Blood], recovers 2 orbs of Mana and increases own ATK by 50% for 5 sec.
 
 **Breakdown:** PvP wow.
-
+<br/>&nbsp;
+<br/>&nbsp;
+<br/>&nbsp;
 
 # Perks
-
 ## Transcendence 1 Generic Perks
 Category | Information
 -- | --
