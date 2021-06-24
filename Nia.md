@@ -54,6 +54,9 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 **Relevance:** PvE: None, PvP: None\
 **In-Game Text:** Each hit recovers own mana by 100.
 
+### Breakdown
+Player Description here. S1 is bad.
+
 Category | Information
 -- | --
 ![S1.1](https://github.com/ECruzUCSC/KRE-Web-React/blob/gh-pages/assets/HeroInfo/Assassin/Nia/s1-1.png) | **Base Skill<br/>S1 - Scar of Barbarism**
