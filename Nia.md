@@ -76,14 +76,14 @@ Player Description here. S1 is bad.
 
 &nbsp; | Transcendence Perks
 -- | --
-<img src="https://www.krindex.net/assets/heroes/nia/s1l.png" width="80" height="80"/> | **Transcendence Perk<br/>S1L - Scar of Barbarism [Light]**
+<img src="https://www.krindex.net/assets/heroes/nia/s1l.png" width="80" height="80"/> | **S1L - Scar of Barbarism [Light]**
 **Relevance** | PvE: None, PvP: None
 **In-Game Text** | Each hit reduces the target's Mana by 100.
-<img src="https://www.krindex.net/assets/heroes/nia/s1d.png" width="80" height="80"/> | **Transcendence Perk<br/>S1D - Scar of Barbarism [Dark]** 
+<img src="https://www.krindex.net/assets/heroes/nia/s1d.png" width="80" height="80"/> | **S1D - Scar of Barbarism [Dark]** 
 **Relevance** | PvE: None, PvP: None
 **In-Game Text** | Each hit recovers own mana by 100.
-&nbsp; | &nbsp;<br/>&nbsp;<br/>&nbsp;
-**Breakdown** | Player Description
+
+**Breakdown:** S1 is bad.
 
 <br/>
 <br/>
