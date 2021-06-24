@@ -48,6 +48,7 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 **S1L - Scar of Barbarism [Light]**\
 **Relevance:** PvE: None, PvP: None\
 **In-Game Text:** Each hit reduces the target's Mana by 100.\
+<br/>&nbsp;
 <img src="https://www.krindex.net/assets/heroes/nia/s1d.png" width="80" height="80"/>\
 **S1D - Scar of Barbarism [Dark]**\
 **Relevance:** PvE: None, PvP: None\
