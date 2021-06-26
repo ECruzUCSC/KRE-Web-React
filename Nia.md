@@ -60,8 +60,14 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 **Relevance** | PvE: None, PvP: None
 **In-Game Text** | Each hit recovers own mana by 100.
 
-**Breakdown:** S1 is bad.
-<br/>&nbsp;
+### Breakdown
+**Player Description: **
+
+**Analysis:** Out of Nia's skills, S1 is probably the worst. Theoretically, you can do some pretty funny stuff with it. Namely, you can drag an enemy across multiple screens of space using S1E. However, that would mean expending your enhanced skill on S1, which has decent raw damage, but does not have defense ignore making its damage output mediocre at best. Furthermore, you can not effectively drag a mob that is cc immune, has even a little bit of cc res or dodge. This is because for the drag to occur, Nia has to land 8 consecutive ccs.
+
+The perks are mostly inert. For PvE, Nia is limited by cooldowns, not mana. Enemies in PvE also don't have mana with the exception of both forms of Shakmeh. So both S1L and S1D are useless. In PvP, the mana shenanigans (for both S1L and S1D) seems usable, but Nia has much better things to spend TP on. At most you will gain 800 mana or reduce 1 opponent's mana by 800. At that point, it is better to focus on raw stats.
+
+As a result of everything, S1 should strictly be used to gain stacks of S4 and that's it. In PvE S1E should never be used unless the goal is to rack up hit counts. Though at this point, what you should be doing is turning auto off on Nia and letting her just auto attack. In PvP, S1E shouldn't be used either. There are some fringe cases when it can be used, but they are exceptions and not the rule. These cases depend on S2 and S3 being bad choices for the situation, not S1 being good.
 
 ## S2
 &nbsp; | Main Skill
@@ -88,8 +94,12 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 **Relevance** | PvE: None, PvP: Medium
 **In-Game Text** | [Hunt Mark] and [Enhanced Hunt Mark] cannot be dispelled by skills that remove negative effects.
 
-**Breakdown:** Support gud.
-<br/>&nbsp;
+### Breakdown
+**Player Description: **
+
+**Analysis:** As a PvE support, this is the skill that defines Nia. The base skill gives 20% amp, which can go up to 40% amp with a 5* UT2. It also reduces enemy heal rate by 25%. That's not too much on its own, but S2 and S2E can be stacked. This brings the totals to 60% amp, which can go up to 100% amp with a 5* UT2, and 75% heal rate reduction. Compared to Gladi, this combination offers 50% more amp (with a 5* UT2) and the heal rate reduction. This is the skill that makes Nia as a viable choice in Galgoria even without being a dps.
+
+While this skill has a lot of potential, Nia will only tap into this potential with 33% uptime maximum. The unfortunate truth of Nia on auto is that when S4 activates, all skills reset their cooldown meaning the next skill used to be randomly chosen. There is a 1 in 3 chance that S2E will be chosen. Some people theorized that if you take S2L, you can make Nia behave consistently if she is in the sub team. This is **not** the case. The way sub team skill selection works is heroes will prioritize using ANY skill they can currently use. This is the reason why you often see heroes choose the lowest mana choice. Because they get to that mana amount faster, they will use that skill earlier. However, All of Nia's skills cost 3 mana so they have equal weight. Even if you lower S2E's cost down to 2, Nia will often have near full mana upon activating S4 making the next skill completely random. **In short, Nia's potential support is much better than Gladi's but is very inconsistent.**
 
 ## S3
 &nbsp; | Main Skill
