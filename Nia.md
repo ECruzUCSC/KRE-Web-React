@@ -61,13 +61,16 @@ Other Utilities | 40 Dodge from S4. Stacks up to 5 times for a total of 200 Dodg
 **In-Game Text** | Each hit recovers own mana by 100.
 
 ### Breakdown
-**Player Description: **
+#### Player Description
 
-**Analysis:** Out of Nia's skills, S1 is probably the worst. Theoretically, you can do some pretty funny stuff with it. Namely, you can drag an enemy across multiple screens of space using S1E. However, that would mean expending your enhanced skill on S1, which has decent raw damage, but does not have defense ignore making its damage output mediocre at best. Furthermore, you can not effectively drag a mob that is cc immune, has even a little bit of cc res or dodge. This is because for the drag to occur, Nia has to land 8 consecutive ccs.
+#### Analysis - Core Use
+Out of Nia's skills, S1 is probably the worst. Theoretically, you can do some pretty funny stuff with it. Namely, you can drag an enemy across multiple screens of space using S1E. However, that would mean expending your enhanced skill on S1, which has decent raw damage, but does not have defense ignore making its damage output mediocre at best. Furthermore, you can not effectively drag a mob that is cc immune, has even a little bit of cc res or dodge. This is because for the drag to occur, Nia has to land 8 consecutive ccs. As a result of everything, S1 should strictly be used to gain stacks of S4 and that's it.
 
+#### Transcendence Perks
 The perks are mostly inert. For PvE, Nia is limited by cooldowns, not mana. Enemies in PvE also don't have mana with the exception of both forms of Shakmeh. So both S1L and S1D are useless. In PvP, the mana shenanigans (for both S1L and S1D) seems usable, but Nia has much better things to spend TP on. At most you will gain 800 mana or reduce 1 opponent's mana by 800. At that point, it is better to focus on raw stats.
 
-As a result of everything, S1 should strictly be used to gain stacks of S4 and that's it. In PvE S1E should never be used unless the goal is to rack up hit counts. Though at this point, what you should be doing is turning auto off on Nia and letting her just auto attack. In PvP, S1E shouldn't be used either. There are some fringe cases when it can be used, but they are exceptions and not the rule. These cases depend on S2 and S3 being bad choices for the situation, not S1E being good. It is worth noting that when you are using S1 (not S1E), positions can shift around drastically. Try to be attentive to Nia's position after S1 as it can really change up what enhanced skill you should be using when S4 hits.
+#### PvP
+In PvE S1E should never be used unless the goal is to rack up hit counts. Though at this point, what you should be doing is turning auto off on Nia and letting her just auto attack. In PvP, S1E shouldn't be used either. There are some fringe cases when it can be used, but they are exceptions and not the rule. These cases depend on S2 and S3 being bad choices for the situation, not S1E being good. It is worth noting that when you are using S1 (not S1E), positions can shift around drastically. Try to be attentive to Nia's position after S1 as it can really change up what enhanced skill you should be using when S4 hits.
 
 ## S2
 &nbsp; | Main Skill
@@ -95,19 +98,21 @@ As a result of everything, S1 should strictly be used to gain stacks of S4 and t
 **In-Game Text** | [Hunt Mark] and [Enhanced Hunt Mark] cannot be dispelled by skills that remove negative effects.
 
 ### Breakdown
-**Player Description: **
+#### Player Description
 
 #### Analysis
-As a PvE support, this is the skill that defines Nia. The values of the base skill aren't too impressive, but the effects of S2 and S2E can be stacked. This brings the totals to 60% amp, which can go up to 100% amp with a 5* UT2, and 75% heal rate reduction. Compared to Gladi, this combination offers 50% more amp (with a 5* UT2) and the heal rate reduction. This is the skill that makes Nia as a viable choice in Galgoria even without being a dps.
+As a PvE support, this is the skill that defines Nia. The values of the base skill aren't too impressive, but the effects of S2 and S2E can be stacked. **This brings the totals to 60% amp, which can go up to 100% amp with a 5* UT2, and 75% heal rate reduction.** Compared to Gladi, this combination offers 50% more amp (with a 5* UT2) and the heal rate reduction. This is the skill that makes Nia as a viable choice in Galgoria even without being a dps.
 
 #### S2E's Inconsistency
 While this skill has a lot of potential, Nia will only tap into this potential with 33% uptime maximum. The unfortunate truth of Nia on auto is that when S4 activates, all skills reset their cooldown meaning the next skill used to be randomly chosen. There is a 1 in 3 chance that S2E will be chosen. Some people theorized that if you take S2L, you can make Nia behave consistently if she is in the sub team. This is **not** the case. The way sub team skill selection works is heroes will prioritize using ANY skill they can currently use. This is the reason why you often see heroes choose the lowest mana choice. Because they get to that mana amount faster, they will use that skill earlier. However, All of Nia's skills cost 3 mana so they have equal weight. Even if you lower S2E's cost down to 2, Nia will often have near full mana upon activating S4 making the next skill completely random. **In short, Nia's potential support is much better than Gladi's but is very inconsistent.**
 
+#### S2E's Damage
 On the damage front, S2's damage is also mediocre. It has defense ignore unlike S1, but it doesn't have very many modifiers from other sources.
 
 #### PvP
 In PvP, S2 is a useful tool for getting into the enemy's backline especially when you take S2L, reducing the mana cost to 2. Unfortunately, S1 can often mess up this favorable positioning, but at the very least you can start off with a predictable way to jump to the back. Once S4 activates, S2E can be used to one shot squishy targets if the positioning allows for it. This will seldom be the case though as the second S2 will often jump Nia back to the front (since she will most likely be in the back). Still, if S1 causes position changes that allow Nia to jump to the back with S2E and the furthest target is a squishy target, S2E has the damage potential to do it.
 
+#### PvP - Transcendence Perks
 S2D can also be taken so that the amp of S2 can not be cleansed. Oftentimes, that amp will make or break a burst against a bruiser comp. There are fringe cases where you want to S2 and S2E consecutively. Doing so dispels everyone in the enemy team and stacks on the afforementioned debuffs allowing for a strong burst. This can be used in tandem with another dps or if you feel confident that Nia will not be interrupted setting up a soul weapon double enhanced skill combo (which is often unsafe).
 
 **In short, S2L is a solid perk choice for PvP, but S2D can be useful against bruiser comps.**
@@ -139,8 +144,24 @@ S2D can also be taken so that the amp of S2 can not be cleansed. Oftentimes, tha
 **Relevance** | PvE: Core, PvP: None
 **In-Game Text** | Increases DMG to Non-Hero enemies by 100% for the skill duration.
 
-**Breakdown:** Much damage.
-<br/>&nbsp;
+### Breakdown
+#### Player Description
+
+#### Analysis - Core Use
+Plain and simple, this is the skill that allows Nia to do some real DPS, both in PvE and PvP. When you enhance S3, it deals 3 hits of the listed damage that has defense ignore. This means that it deals approximately 3x as much damage as S2E (which also has defense ignore). The icing on the cake is that it also deals 9 seconds of cc bar damage because it counts as 3 hits of 3 seconds of cc.
+
+#### AoE
+The AoE of S3E is absolutely massive for a character that has single target attacks otherwise. Unfortunately, it is not screenwide so Nia does not function well in Velkazar nor can she clear the screen in Ascalon. However, the AoE is wide enough to kill multiple totems in Trial of the Sky (allowing Nia to do Sky easily if she has an A2), hit all 3 targets in WB3 and hit every character in PvP given Nia is standing either at the front or at the very back.
+
+#### PvP
+Speaking of PvP, S3E is also Nia's win condition in PvP. If Nia's given the chance to charge up S4, S3E can one shot moderately tanky teams. For the teams that can survive this, another S3 will be ready in a few seconds if Nia possesses an A2. As a result, Nia is a magnificent bruiser killer due to S3E. There are some problems, however. In order to get to S3E, a player has to buy enough time for Nia to generate 11 mana. S4D will take care of 2 mana meaning Nia has to get 9 mana from auto attacks or the team and that takes some time. Coupled with the fact that Nia does not have much in terms of defensive utility, this makes Nia quite vulnerable to burst comps.
+
+#### PvP - Playing Around S3E
+Unfortunately, having all of your damage loaded in one skill makes Nia quite predictable. A skilled opponent will watch the number of skills Nia used so that they can either shield the damage dealt by S3 or outright interrupt it. UT4's cc immunity will help with the latter issue, but a simple dispel will nullify the protection it grants. If at all possible, try to make it so you get to S4 and S3E when the opponent is not ready to dispel as this is the leading cause of interruptions. A player can attempt to be tricky and use an odd skill sequence (saving S2 to activate S4 for example) or skill timing in order to circumvent opponents from predicting when S3E will come out. Unconventional openings means that Nia opens slower and/or more dangerously.
+
+#### PvP - Positioning
+
+
 
 ## S4
 &nbsp; | Main Skill
