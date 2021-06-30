@@ -97,15 +97,15 @@ As a result of everything, S1 should strictly be used to gain stacks of S4 and t
 ### Breakdown
 **Player Description: **
 
-##### Analysis
+#### Analysis
 As a PvE support, this is the skill that defines Nia. The values of the base skill aren't too impressive, but the effects of S2 and S2E can be stacked. This brings the totals to 60% amp, which can go up to 100% amp with a 5* UT2, and 75% heal rate reduction. Compared to Gladi, this combination offers 50% more amp (with a 5* UT2) and the heal rate reduction. This is the skill that makes Nia as a viable choice in Galgoria even without being a dps.
 
-##### S2E's Inconsistency
+#### S2E's Inconsistency
 While this skill has a lot of potential, Nia will only tap into this potential with 33% uptime maximum. The unfortunate truth of Nia on auto is that when S4 activates, all skills reset their cooldown meaning the next skill used to be randomly chosen. There is a 1 in 3 chance that S2E will be chosen. Some people theorized that if you take S2L, you can make Nia behave consistently if she is in the sub team. This is **not** the case. The way sub team skill selection works is heroes will prioritize using ANY skill they can currently use. This is the reason why you often see heroes choose the lowest mana choice. Because they get to that mana amount faster, they will use that skill earlier. However, All of Nia's skills cost 3 mana so they have equal weight. Even if you lower S2E's cost down to 2, Nia will often have near full mana upon activating S4 making the next skill completely random. **In short, Nia's potential support is much better than Gladi's but is very inconsistent.**
 
 On the damage front, S2's damage is also mediocre. It has defense ignore unlike S1, but it doesn't have very many modifiers from other sources.
 
-##### PvP
+#### PvP
 In PvP, S2 is a useful tool for getting into the enemy's backline especially when you take S2L, reducing the mana cost to 2. Unfortunately, S1 can often mess up this favorable positioning, but at the very least you can start off with a predictable way to jump to the back. Once S4 activates, S2E can be used to one shot squishy targets if the positioning allows for it. This will seldom be the case though as the second S2 will often jump Nia back to the front (since she will most likely be in the back). Still, if S1 causes position changes that allow Nia to jump to the back with S2E and the furthest target is a squishy target, S2E has the damage potential to do it.
 
 S2D can also be taken so that the amp of S2 can not be cleansed. Oftentimes, that amp will make or break a burst against a bruiser comp. There are fringe cases where you want to S2 and S2E consecutively. Doing so dispels everyone in the enemy team and stacks on the afforementioned debuffs allowing for a strong burst. This can be used in tandem with another dps or if you feel confident that Nia will not be interrupted setting up a soul weapon double enhanced skill combo (which is often unsafe).
