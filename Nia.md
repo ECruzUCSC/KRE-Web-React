@@ -160,7 +160,7 @@ Speaking of PvP, S3E is also Nia's win condition in PvP. If Nia's given the chan
 Unfortunately, having all of your damage loaded in one skill makes Nia quite predictable. A skilled opponent will watch the number of skills Nia used so that they can either shield the damage dealt by S3 or outright interrupt it. UT4's cc immunity will help with the latter issue, but a simple dispel will nullify the protection it grants. If at all possible, try to make it so you get to S4 and S3E when the opponent is not ready to dispel as this is the leading cause of interruptions. A player can attempt to be tricky and use an odd skill sequence (saving S2 to activate S4 for example) or skill timing in order to circumvent opponents from predicting when S3E will come out. Unconventional openings means that Nia opens slower and/or more dangerously.
 
 #### PvP - Positioning
-
+It was mentioned in a previous section that AoE can hit everyone on the enemy team in a PvP match. However, this is only true if Nia is in the front or at the very back. The main issue with using S3 is when Nia is somewhere in the middle. Nia's S3 will almost always prioritize position 1 even when she's not next to them. This means Nia will completely miss the backline heroes which are often the actual priority targets. This is more common than one might think considering S1 has a tendency to really shift the positioning of everyone in the enemy team. Before you let S3E rip, make sure you consider the positioning of Nia and the enemy heroes just incase it's better to use S2E or even S1E. A vast majority of the time though, you will be opting to use your enhanced skill on S3E.
 
 
 ## S4
