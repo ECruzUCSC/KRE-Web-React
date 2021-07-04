@@ -186,10 +186,26 @@ It was mentioned in a previous section that AoE can hit everyone on the enemy te
 **Relevance** | PvE: Core, PvP: Core
 **In-Game Text** | Upon gaining 4 stacks of [Demonic Blood], recovers 2 orbs of Mana and increases own ATK by 50% for 5 sec.
 
-**Breakdown:** PvP wow.
-<br/>&nbsp;
-<br/>&nbsp;
-<br/>&nbsp;
+### Breakdown
+#### Player Description
+
+#### Analysis - Core Use
+S4 is the skill that allows Nia to use her enhanced skills. After 4 skill uses, an enhanced skill becomes available. Upon activating this state, all cooldowns are reset meaning you can use any enhanced skill. An interesting tidbit is that enhanced skills also count towards the 4 skill uses. Unfortunately it doesn't help much because all skills share cooldowns with their enhanced skills. Because you need 4 skill uses and Nia's cooldowns are fairly high, enhanced skills do not become available very often.
+
+#### Soul Weapon Combo
+Nia's SW on A2 helps with this by adding 2 charges of S4. By using this property, you can use 2 enhanced skills in quick succession. The most practical use of this would be using the following sequence for maximum damage:\
+Activate S4 normally\
+S3E - Bringing you to 1 stack of S4\
+S2 - 2 S4 stacks\
+A2 SW Activation - 4 S4 stacks\
+S3E\
+This Soul Weapon combo can also be used in PvP to get two quick successive bursts, but it is easily interrupted by an attentive opponent. Unfortunately, there is no practical usage of the A2 combo when it comes to supporting. The extra enhanced skill can be used to get a better uptime on S2E (granted Nia is being controlled manually), but it only helps very slightly as S2E is active approximately 60-75% of the time.
+
+#### Transcendence Perks
+The only transcendence perk that sees use is S4D. In PvE, the boosts provided by S4L are unnecessary. You'd only ever take S4D for the increase in damage. And in PvP, while S4L can help with Nia's sustainability, Nia typically is not looking for a long game. Matches are often decided by whether or not Nia can get to the enhanced skill and whether the chosen enhanced skill is able to completely burst down a key target. If Nia fails to kill a key target by the time her Soul Weapon combo is done, then it often means that the Nia player will lose.
+
+#### Unique Treasure and PvP in general
+UT4 allows Nia to start with 1 charge of S4. That means that Nia only has to use 3 skills in order to get to her first enhanced skill. For PvE, this is pretty useless unless the goal is to get a very quick burst of defense ignore damage to instantly clear a stage. In PvP however, this UT is her staple UT. Not having to wait 15-20 seconds before Nia reaches her win condition is an absolute necessity in today's very fast paced meta. Additionally, upon reaching 4 stacks of S4, UT4 will give Nia CC immunity for a short period of time. This is enough time for Nia to execute her first enhanced skill in relative safety. However, an attentive opponent can keep track of Nia's skill usages and either dispel when the time comes or prepare a skill that prevents buffs from being applied. When this happens, the cc immunity affords Nia no safety. Finally, the cc immunity often does not last long enough to protect the SW activation that comes after the first enhanced skill. Do not make the assumption that the SW activation is safe because of UT4.
 
 # Perks
 ## Transcendence 1 Generic Perks
