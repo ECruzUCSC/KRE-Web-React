@@ -228,10 +228,13 @@ Category | Information
 **In-Game Text** | Crit Resistance is increased by 250
 &nbsp; | &nbsp;
 ![T1 MH](https://www.krindex.net/assets/genericPerks/Monster%20Hunting.png) | **Monster Hunting**
-**Relevance** | PvE: Core, PvP: High
+**Relevance** | PvE: Core, PvP: None
 **In-Game Text** | Increases DMG to Non-Hero Enemies by 10% and takes 10% reduced DMG.
-&nbsp; | &nbsp;
-**Breakdown:**
+
+### Breakdown
+In PvE, there is no question that you take T1 Atk and Monster Hunting if you play Nia as a DPS. If you play her as a support, you could still take those two perks, or you can change her perks to something more defensive if survivability is a huge issue. Finally, if you are using Nia as a Sky Trial tank, then you definitely want to take the defensive T1's.
+
+In PvP, the first four perks will have some relevance depending on what TM skills Nia has built at the time. Each of the skills is straightforward enough that you can tell how it will impact your build. The only thing that warrants saying is that if you are using one instance of [-Def/+Atk], you might want to consider picking up T1 Def to offset the defense loss. The key is figuring out how to balance your stats. I would love to cover that, but this is not the guide to do so. 
 
 ## Transcendence 2 Assassin Perks
 Category | Information
@@ -245,7 +248,7 @@ Category | Information
 **In-Game Text** | Per every sec, Dodge rate is increased by 100. This effect can be stacked up to max 5 times, and resets upon dodging an Attack.
 &nbsp; | &nbsp;
 ![Tactical Foresight](https://www.krindex.net/assets/genericPerks/Tactical%20Foresight.png) | **Tactical Foresight**
-**Relevance** | PvE: None, PvP: High
+**Relevance** | PvE: None, PvP: Medium
 **In-Game Text** | Dodge rate is increased by 200 and takes 10% reduced DMG.
 &nbsp; | &nbsp;
 ![Opportune Strike](https://www.krindex.net/assets/genericPerks/Opportune%20Strike.png) | **Opportune Strike**
@@ -255,8 +258,11 @@ Category | Information
 ![Vital Detection](https://www.krindex.net/assets/genericPerks/Vital%20Detection.png) | **Vital Detection**
 **Relevance** | PvE: Low, PvP: None
 **In-Game Text** | Upon attack, causes the target to take 10% increased All DMG and have their ATK Spd reduced by 100 for 10 sec. This effect activates once every 3 sec.
-&nbsp; | &nbsp;
-**Breakdown:**
+
+### Breakdown
+For PvE, Nia's T2 skills are not as straightforward as they seem. Target Weakness is oddly good despite giving penetration, a stat that Nia does not need. Opportune Strike is oddly mediocre because Nia has so much critical hit rate that the crit on Opportune Strike itself is wasted. So the choice comes down to the 20% perk layer atk from Target Weakness or 30% critical damage from Opportune Strike. The answer will depend on how much crit damage Nia has at the time of execution. In a vacuum, Target Weakness is better. If Nia is overflowing with crit dmg because Lavril and other crit dmg buffers are in the party, then Target Weakness is better. But if the supports are focused on buffing attack instead, then Opportune Strike overtakes Target Weakness.
+
+For PvP, T2 perks give Nia an opportunity to fill in missing stats. Target Weakness provides Nia with the 20% perk layer buff which is always appreciated as a character who serves as a win condition. However, 20% atk often pales in comparison when using the TM skill [-def/+atk]. Tactical Foresight used to be a core perk as dodge only appreciates in value the more you build it. Nia already has high dodge as an assassin which only gets higher as S4 stacks. However, because of the recent shift in building convention, more and more accuracy is present in the meta neutralizing dodge almost entirely. As a result, Tactical Foresight can give you big returns against an inexperienced player, but is less valuable against better competitors. As previously mentioned, Nia already has high critical hit rate. But going above 100% with Opportune Strike is not wrong because tankier teams tend to build critical resistance. 
 
 ## Transcendence 5 Nia Perks
 Category | Information
@@ -268,8 +274,9 @@ Category | Information
 ![T5D](https://www.krindex.net/assets/heroes/nia/dark.png) | **T5D - Nia [Dark]**
 **Relevance** | PvE: Core, PvP: Low
 **In-Game Text** | Normal attacks and [Enhanced Scar of Barbarism] deal additional P.DMG equal to 25% of ATK that ignores DEF.
-&nbsp; | &nbsp;
-**Breakdown:**
+
+### Breakdown
+In PvE, take both. The stats from T5L area always appreciated and Nia does not have very many good T3 perks giving you room to take T5L. T5D is also decent for bumping up Nia's damage. Despite its defense ignore, T5D is not a massive damage dealer due to the low scaling, but it still adds damage to the table due to Nia's high auto hit count. Speaking of hit count, taking T5D and leaving Nia to just auto attack allows her to shred hit count barriers really quickly.
 
 # Transcendence Perk Builds
 
