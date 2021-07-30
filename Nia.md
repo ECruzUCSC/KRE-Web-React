@@ -278,6 +278,8 @@ Category | Information
 ### Breakdown
 In PvE, take both. The stats from T5L area always appreciated and Nia does not have very many good T3 perks giving you room to take T5L. T5D is also decent for bumping up Nia's damage. Despite its defense ignore, T5D is not a massive damage dealer due to the low scaling, but it still adds damage to the table due to Nia's high auto hit count. Speaking of hit count, taking T5D and leaving Nia to just auto attack allows her to shred hit count barriers really quickly.
 
+In contrast, T5D is awful in PvP. The amount of damage it adds on is easily healed off. Nia's win condition is getting off a big S3E depleting the opponent's health all in one go, not chipping them down. T5D does not help in the slightest with this goal. T5L on the other hand will provide her with survivability, damage and helps mana generation with the attack speed.
+
 # Transcendence Perk Builds
 
 # Gear
