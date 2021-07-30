@@ -282,6 +282,26 @@ In contrast, T5D is awful in PvP. The amount of damage it adds on is easily heal
 
 # Transcendence Perk Builds
 
+## Generic PvE
+![Generic PvE Perk Page](https://i.imgur.com/WELxqsr.png)
+### Breakdown
+**Used in:** Pretty much anywhere in PvE that isn't Sky Trial / Hero content\
+**80 TP:** Drop T5L\
+As stated, you can use this build pretty much anywhere. Even though the goal of the build is to maximize Nia's damage, even support Nia should be running this. The only potential difference would be to change T1 atk for T1 hp or T1 def if support Nia's survivability is low for whatever reason. Finally, if you're doing hero content (DL, Hero ToC floors), make sure you swap out S3D for something else.
+
+## Sky Tank
+![Sky Tank Perk Page](https://i.imgur.com/JVHvyqc.png)
+### Breakdown
+**Used in:** Sky Trial\
+**80 TP:** Drop Monster Hunting\
+Nia's perk build if used as a tank for sky trial. Nia doesn't have too many perks that help with this endeavor. This is pretty much all she could take that has any sort of impact on her performance. Building her for damage when she's built as the tank is highly ineffective so most of these perks are defensive in nature.
+
+## PvP
+**Disclaimer:** This build is not static. PvP is very nuanced and perks will change based on playstyle preference and team comp. This is simply the one I use most often.
+![PvP Perk Page](https://i.imgur.com/vp7T0nx.png)
+### Breakdown
+Do this later.
+
 # Gear
 ## Unique Weapon
 ![Nia UW](https://www.krindex.net/assets/heroes/nia/uw.png)\
