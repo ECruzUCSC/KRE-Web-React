@@ -321,12 +321,13 @@ Covered above in the Skills section.
 
 ## Gear Options
 ### PvE Gear Lines
-Line | Description
+Line | Priority
 -- | --
-Attack | **Priority: Core.** 
-Crit Damage | **Priority: High.**
-Crit | **Priority: Medium.**
-Lifesteal | **Priority: Low.**
+Attack | Core
+Crit Damage | High
+Crit | Medium
+Lifesteal | Low
+
 While it is true that you aim to have a balance of stats, attack is of the highest priority because Nia gets the other offensive stats in spades. Her Unique Weapon gives a ridiculous amount of crit and good amounts of crit damage. Penetration is completely unnecessary because she ignores defense with her enhanced skills. As a result, to balance her stats, she has to pile on attack primarily. A good goal for attack is to make sure you have 1% attack on gear for every 2% crit damage you have **after factoring in buffs.** As for the other stats, make sure you reach 1000 crit after buffs are applied. One (small) source of lifesteal is recommended.
 
 ### PvP Gear Lines
