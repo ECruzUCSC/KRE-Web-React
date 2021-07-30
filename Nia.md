@@ -297,7 +297,7 @@ As stated, you can use this build pretty much anywhere. Even though the goal of 
 Nia's perk build if used as a tank for sky trial. Nia doesn't have too many perks that help with this endeavor. This is pretty much all she could take that has any sort of impact on her performance. Building her for damage when she's built as the tank is highly ineffective so most of these perks are defensive in nature.
 
 ## PvP
-**Disclaimer:** This build is not static. PvP is very nuanced and perks will change based on playstyle preference and team comp. This is simply the one I use most often.
+**Disclaimer:** This build is not static. PvP is very nuanced and perks will change based on playstyle preference and team comp. This is simply the one I use most often.\
 ![PvP Perk Page](https://i.imgur.com/vp7T0nx.png)
 ### Breakdown
 Do this later.
@@ -320,7 +320,28 @@ Do this later.
 Covered above in the Skills section.
 
 ## Gear Options
-### Gear Lines
+### PvE Gear Lines
+Line | Description
+-- | --
+Attack | **Priority: Core.** 
+Crit Damage | **Priority: High.**
+Crit | **Priority: Medium.**
+Lifesteal | **Priority: Low.**
+While it is true that you aim to have a balance of stats, attack is of the highest priority because Nia gets the other offensive stats in spades. Her Unique Weapon gives a ridiculous amount of crit and good amounts of crit damage. Penetration is completely unnecessary because she ignores defense with her enhanced skills. As a result, to balance her stats, she has to pile on attack primarily. A good goal for attack is to make sure you have 1% attack on gear for every 2% crit damage you have **after factoring in buffs.** As for the other stats, make sure you reach 1000 crit after buffs are applied. One (small) source of lifesteal is recommended.
+
+### PvP Gear Lines
+Line | Description
+-- | --
+Hp | .
+Attack | .
+Crit Damage | .
+Crit | .
+Attack Speed | .
+Mp/Attack | .
+Dodge | .
+Crit Resist | .
+
+
 ### Technomagic Skills
 
 # Execution
